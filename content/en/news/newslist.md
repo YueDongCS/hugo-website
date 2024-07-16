@@ -1,6 +1,7 @@
 +++
 draft = false
 +++
+- [7/2024] Our paper on Personalized Conversational Information Retrieval has been accepted at CIKM 2024.
 - [7/2024] [IllusionVQA](https://arxiv.org/abs/2403.15952) has been accepted at [COLM](https://colmweb.org/). 
 - [5/2024] Excited that 5 papers (on [Summarization Safety Alignment](https://arxiv.org/abs/2312.06924), [Bias in Text-to-Image Generation](https://arxiv.org/abs/2312.14440), [Misogyny Benchmark](https://arxiv.org/abs/2311.09443), [Text Re-ranking](https://arxiv.org/abs/2402.10866), [Temporal QA](https://arxiv.org/abs/2402.11034)) are accepted to ACL 2024 or ACL Findings. 
 - [5/2024] Our work "Cross-Task Defense: Instruction-Tuning LLMs for Content Safety" has been accepted to NAACL TrustNLP 2024 workshop. 
