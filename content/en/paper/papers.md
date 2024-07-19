@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Papers"
 draft: false
 draft: false
 share: false
@@ -13,4 +13,4 @@ header:
 ---
 
 
-{{< readfromfile "/content/en/service/paperlist.md" 1000 >}} 
+{{< readfromfile "/content/en/paper/paperlist.md" 1000 >}} 
