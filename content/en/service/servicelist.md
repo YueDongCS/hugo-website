@@ -1,11 +1,14 @@
 +++
 draft = false
 +++
+### Lead-organizer
+- ACL 2024 Tutorial on [Vulnerabilities of Large Language Models to Adversarial Attacks](https://llm-vulnerability.github.io/)
+- EMNLP 2023 workshop on [New Frontiers in Summarization](https://newsumm.github.io/2023/)
 
 ### Co-organizer
+- NeurIPS 2024 workshop on [Efficient Natural Language and Speech Processing (ENLSP-IV)]
 - NeurIPS 2023 workshop on [Efficient Natural Language and Speech Processing (ENLSP-III)](https://neurips2023-enlsp.github.io/)
 - KDD 2023 tutorial on [Fast Text Generation with Text-Editing Models](https://kdd2023-text-editing.github.io/)
-- EMNLP 2023 workshop on [New Frontiers in Summarization](https://newsumm.github.io/2023/)
 - NeurIPS 2022 workshop on [Efficient Natural Language and Speech Processing (ENLSP-II)](https://neurips2022-enlsp.github.io/)
 - EMNLP 2021 workshop on [New Frontiers in Summarization](https://newsumm.github.io/2021/)
 - NeurIPS 2021 workshop on [Efficient Natural Language and Speech Processing](https://neurips2021-nlp.github.io/)
