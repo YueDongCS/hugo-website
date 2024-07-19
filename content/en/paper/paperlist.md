@@ -6,45 +6,49 @@ draft = false
 
 ### Peer-reviewed
 
+# Publications
+
+## 2024
+
 ### Peer-reviewed
 
-28. [IllusionVQA: A Challenging Optical Illusion Dataset for Vision Language Models](https://arxiv.org/abs/2403.15952)  
+[28] [IllusionVQA: A Challenging Optical Illusion Dataset for Vision Language Models](https://arxiv.org/abs/2403.15952)  
     Haz Sameen Shahgir, Khondker Salman Sayeed, Abhik Bhattacharjee, Wasi Uddin Ahmad, __Yue Dong__, Rifat Shahriyar  
     *Conference on Language Modeling (COLM) 2024*
 
-27. [Cross-task defense: Instruction-tuning LLMs for content safety]  
+[27] [Cross-task defense: Instruction-tuning LLMs for content safety](https://arxiv.org/abs/2312.06924)
     Yu Fu, Wen Xiao, Jia Chen, Jiachen Li, Evangelos Papalexakis, Aichi Chien, __Yue Dong__  
     *TrustNLP Workshop @ NAACL 2024*
 
-26. [Safety Alignment in NLP Tasks: Weakly Aligned Summarization as an In-Context Attack](https://arxiv.org/abs/2312.06924)  
+[26] [Safety Alignment in NLP Tasks: Weakly Aligned Summarization as an In-Context Attack](https://arxiv.org/abs/2312.06924)  
     Yu Fu, Yufei Li, Wen Xiao, Cong Liu, __Yue Dong__  
     *ACL 2024*
 
-25. [Asymmetric Bias in Text-to-Image Generation with Adversarial Attacks](https://arxiv.org/abs/2312.14440)  
+[25] [Asymmetric Bias in Text-to-Image Generation with Adversarial Attacks](https://arxiv.org/abs/2312.14440)  
     Haz Sameen Shahgir, Xianghao Kong, Greg Ver Steeg, __Yue Dong__  
     *ACL Findings 2024*
 
-24. [Subtle Misogyny Detection and Mitigation: An Expert-Annotated Dataset](https://arxiv.org/abs/2311.09443)  
+[24] [Subtle Misogyny Detection and Mitigation: An Expert-Annotated Dataset](https://arxiv.org/abs/2311.09443)  
     Brooklyn Sheppard, Anna Richter, Allison Cohen, Elizabeth Allyn Smith, Tamara Kneese, Carolyne Pelletier, Ioana Baldini, __Yue Dong__  
     *ACL Findings 2024*
 
-23. [Source-Free Domain Adaptation for Question Answering with Masked Self-training](https://arxiv.org/abs/2212.09563)  
+[23] [Source-Free Domain Adaptation for Question Answering with Masked Self-training](https://arxiv.org/abs/2212.09563)  
     Maxwell Yin, Boyu Wang, __Yue Dong__, Charles Ling  
     *TACL 2024*
 
-22. [PAT-Questions: A Self-Updating Benchmark for Present-Anchored Temporal Question-Answering](https://arxiv.org/abs/2402.11034)  
+[22] [PAT-Questions: A Self-Updating Benchmark for Present-Anchored Temporal Question-Answering](https://arxiv.org/abs/2402.11034)  
     Jannat Ara Meem, Muhammad Shihab Rashid, __Yue Dong__, Vagelis Hristidis  
     *ACL Findings 2024*
 
-21. [EcoRank: Budget-Constrained Text Re-ranking Using Large Language Models](https://arxiv.org/abs/2402.10866)  
+[21] [EcoRank: Budget-Constrained Text Re-ranking Using Large Language Models](https://arxiv.org/abs/2402.10866)  
     Muhammad Shihab Rashid, Jannat Ara Meem, __Yue Dong__, Vagelis Hristidis  
     *ACL Findings 2024*
 
-20. Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models  
+[20] Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models  
     Erfan Shayegani, __Yue Dong__, Nael Abu-Ghazaleh  
     *ICLR 2024*
 
-19. Watermarking conditional text generation for AI detection: Unveiling challenges and a semantic-aware watermark remedy  
+[19] Watermarking conditional text generation for AI detection: Unveiling challenges and a semantic-aware watermark remedy  
     Yu Fu, Deyi Xiong, __Yue Dong__  
     *AAAI 2024*
     
