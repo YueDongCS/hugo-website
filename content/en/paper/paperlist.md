@@ -10,7 +10,7 @@ draft = false
 <div style="line-height: 1.2; width: 100%;">
 [28] [IllusionVQA: A Challenging Optical Illusion Dataset for Vision Language Models](https://arxiv.org/abs/2403.15952)  
 Haz Sameen Shahgir, Khondker Salman Sayeed, Abhik Bhattacharjee, Wasi Uddin Ahmad, <u>Yue Dong</u>, Rifat Shahriyar  
-<i>Conference on Language Modeling (COLM) 2024</i>
+*Conference on Language Modeling (COLM) 2024*
 </div>
 </sub>
 
@@ -18,7 +18,7 @@ Haz Sameen Shahgir, Khondker Salman Sayeed, Abhik Bhattacharjee, Wasi Uddin Ahma
 <div style="line-height: 1.2; width: 100%;">
 [27] [Cross-task defense: Instruction-tuning LLMs for content safety](https://arxiv.org/abs/2312.06924)  
 Yu Fu, Wen Xiao, Jia Chen, Jiachen Li, Evangelos Papalexakis, Aichi Chien, <u>Yue Dong</u>  
-<i>TrustNLP Workshop @ NAACL 2024</i>
+*TrustNLP Workshop @ NAACL 2024*
 </div>
 </sub>
 
@@ -26,7 +26,7 @@ Yu Fu, Wen Xiao, Jia Chen, Jiachen Li, Evangelos Papalexakis, Aichi Chien, <u>Yu
 <div style="line-height: 1.2; width: 100%;">
 [26] [Safety Alignment in NLP Tasks: Weakly Aligned Summarization as an In-Context Attack](https://arxiv.org/abs/2312.06924)  
 Yu Fu, Yufei Li, Wen Xiao, Cong Liu, <u>Yue Dong</u>  
-<i>ACL 2024</i>
+*ACL 2024*
 </div>
 </sub>
 
@@ -34,7 +34,7 @@ Yu Fu, Yufei Li, Wen Xiao, Cong Liu, <u>Yue Dong</u>
 <div style="line-height: 1.2; width: 100%;">
 [25] [Asymmetric Bias in Text-to-Image Generation with Adversarial Attacks](https://arxiv.org/abs/2312.14440)  
 Haz Sameen Shahgir, Xianghao Kong, Greg Ver Steeg, <u>Yue Dong</u>  
-<i>ACL Findings 2024</i>
+*ACL Findings 2024*
 </div>
 </sub>
 
@@ -42,7 +42,7 @@ Haz Sameen Shahgir, Xianghao Kong, Greg Ver Steeg, <u>Yue Dong</u>
 <div style="line-height: 1.2; width: 100%;">
 [24] [Subtle Misogyny Detection and Mitigation: An Expert-Annotated Dataset](https://arxiv.org/abs/2311.09443)  
 Brooklyn Sheppard, Anna Richter, Allison Cohen, Elizabeth Allyn Smith, Tamara Kneese, Carolyne Pelletier, Ioana Baldini, <u>Yue Dong</u>  
-<i>ACL Findings 2024</i>
+*ACL Findings 2024*
 </div>
 </sub>
 
@@ -50,7 +50,7 @@ Brooklyn Sheppard, Anna Richter, Allison Cohen, Elizabeth Allyn Smith, Tamara Kn
 <div style="line-height: 1.2; width: 100%;">
 [23] [Source-Free Domain Adaptation for Question Answering with Masked Self-training](https://arxiv.org/abs/2212.09563)  
 Maxwell Yin, Boyu Wang, <u>Yue Dong</u>, Charles Ling  
-<i>TACL 2024</i>
+*TACL 2024*
 </div>
 </sub>
 
@@ -58,7 +58,7 @@ Maxwell Yin, Boyu Wang, <u>Yue Dong</u>, Charles Ling
 <div style="line-height: 1.2; width: 100%;">
 [22] [PAT-Questions: A Self-Updating Benchmark for Present-Anchored Temporal Question-Answering](https://arxiv.org/abs/2402.11034)  
 Jannat Ara Meem, Muhammad Shihab Rashid, <u>Yue Dong</u>, Vagelis Hristidis  
-<i>ACL Findings 2024</i>
+*ACL Findings 2024*
 </div>
 </sub>
 
@@ -66,7 +66,7 @@ Jannat Ara Meem, Muhammad Shihab Rashid, <u>Yue Dong</u>, Vagelis Hristidis
 <div style="line-height: 1.2; width: 100%;">
 [21] [EcoRank: Budget-Constrained Text Re-ranking Using Large Language Models](https://arxiv.org/abs/2402.10866)  
 Muhammad Shihab Rashid, Jannat Ara Meem, <u>Yue Dong</u>, Vagelis Hristidis  
-<i>ACL Findings 2024</i>
+*ACL Findings 2024*
 </div>
 </sub>
 
@@ -74,7 +74,7 @@ Muhammad Shihab Rashid, Jannat Ara Meem, <u>Yue Dong</u>, Vagelis Hristidis
 <div style="line-height: 1.2; width: 100%;">
 [20] [Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models](https://arxiv.org/abs/2401.12345)  
 Erfan Shayegani, <u>Yue Dong</u>, Nael Abu-Ghazaleh  
-<i>ICLR 2024</i>
+*ICLR 2024*
 </div>
 </sub>
 
@@ -82,7 +82,7 @@ Erfan Shayegani, <u>Yue Dong</u>, Nael Abu-Ghazaleh
 <div style="line-height: 1.2; width: 100%;">
 [19] [Watermarking conditional text generation for AI detection: Unveiling challenges and a semantic-aware watermark remedy](https://arxiv.org/abs/2401.67890)  
 Yu Fu, Deyi Xiong, <u>Yue Dong</u>  
-<i>AAAI 2024</i>
+*AAAI 2024*
 </div>
 </sub>
 
@@ -92,7 +92,7 @@ Yu Fu, Deyi Xiong, <u>Yue Dong</u>
 <div style="line-height: 1.2; width: 100%;">
 - [TRAWL: Tensor Reduced and Approximated Weights for Large Language Models](https://arxiv.org/abs/2406.17261)  
 Y Luo, H Patel, Y Fu, D Ahn, J Chen, <u>Yue Dong</u>, EE Papalexakis  
-<i>arXiv preprint arXiv:2406.17261</i>
+*arXiv preprint arXiv:2406.17261*
 </div>
 </sub>
 
@@ -100,7 +100,7 @@ Y Luo, H Patel, Y Fu, D Ahn, J Chen, <u>Yue Dong</u>, EE Papalexakis
 <div style="line-height: 1.2; width: 100%;">
 - [Progressive Query Expansion for Retrieval Over Cost-constrained Data Sources](https://arxiv.org/abs/2406.07136)  
 MS Rashid, JA Meem, <u>Yue Dong</u>, V Hristidis  
-<i>arXiv preprint arXiv:2406.07136</i>
+*arXiv preprint arXiv:2406.07136*
 </div>
 </sub>
 
@@ -108,7 +108,7 @@ MS Rashid, JA Meem, <u>Yue Dong</u>, V Hristidis
 <div style="line-height: 1.2; width: 100%;">
 - [PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling](https://arxiv.org/abs/2406.02069)  
 Y Zhang, B Gao, T Liu, K Lu, W Xiong, <u>Yue Dong</u>, B Chang, J Hu, W Xiao  
-<i>arXiv preprint arXiv:2406.02069</i>
+*arXiv preprint arXiv:2406.02069*
 </div>
 </sub>
 
@@ -116,7 +116,7 @@ Y Zhang, B Gao, T Liu, K Lu, W Xiong, <u>Yue Dong</u>, B Chang, J Hu, W Xiao
 <div style="line-height: 1.2; width: 100%;">
 - [Cross-Modal Safety Alignment: Is textual unlearning all you need?](https://arxiv.org/abs/2406.02575)  
 T Chakraborty, E Shayegani, Z Cai, N Abu-Ghazaleh, MS Asif, <u>Yue Dong</u>  
-<i>arXiv preprint arXiv:2406.02575</i>
+*arXiv preprint arXiv:2406.02575*
 </div>
 </sub>
 
@@ -124,7 +124,7 @@ T Chakraborty, E Shayegani, Z Cai, N Abu-Ghazaleh, MS Asif, <u>Yue Dong</u>
 <div style="line-height: 1.2; width: 100%;">
 - [Uncertainty Awareness of Large Language Models Under Code Distribution Shifts: A Benchmark Study](https://arxiv.org/abs/2402.05939)  
 Y Li, S Chen, Y Guo, W Yang, <u>Yue Dong</u>, C Liu  
-<i>arXiv preprint arXiv:2402.05939</i>
+*arXiv preprint arXiv:2402.05939*
 </div>
 </sub>
 
@@ -132,7 +132,7 @@ Y Li, S Chen, Y Guo, W Yang, <u>Yue Dong</u>, C Liu
 <div style="line-height: 1.2; width: 100%;">
 - [BiRNA-BERT Allows Efficient RNA Language Modeling with Adaptive Tokenization](https://biorxiv.org/content/early/2024/07/02/601703)  
 MT Tahmid, HS Shahgir, S Mahbub, <u>Yue Dong</u>, MS Bayzid  
-<i>bioRxiv</i>
+*bioRxiv*
 </div>
 </sub>
 
@@ -140,9 +140,10 @@ MT Tahmid, HS Shahgir, S Mahbub, <u>Yue Dong</u>, MS Bayzid
 <div style="line-height: 1.2; width: 100%;">
 - [Mechanisms of non-factual hallucinations in language models](https://arxiv.org/abs/2403.18167)  
 L Yu, M Cao, JCK Cheung, <u>Yue Dong</u>  
-<i>arXiv preprint arXiv:2403.18167</i>
+*arXiv preprint arXiv:2403.18167*
 </div>
 </sub>
+
 
 
 ### 2023
