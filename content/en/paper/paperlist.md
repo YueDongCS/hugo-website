@@ -48,20 +48,40 @@ draft = false
     Erfan Shayegani, __Yue Dong__, Nael Abu-Ghazaleh  
     *ICLR 2024*
 
-[19] Watermarking conditional text generation for AI detection: Unveiling challenges and a semantic-aware watermark remedy  
+[19] [Watermarking conditional text generation for AI detection: Unveiling challenges and a semantic-aware watermark remedy](https://arxiv.org/abs/2401.67890)    
     Yu Fu, Deyi Xiong, __Yue Dong__  
     *AAAI 2024*
     
 ### Pre-prints
 
-- TRAWL: Tensor Reduced and Approximated Weights for Large Language Models
-- Progressive Query Expansion for Retrieval Over Cost-constrained Data Sources
-- PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling 
-- Cross-Modal Safety Alignment: Is textual unlearning all you need?
-- Uncertainty Awareness of Large Language Models Under Code Distribution Shifts: A Benchmark Study
-- BiRNA-BERT Allows Efficient RNA Language Modeling with Adaptive Tokenization
--  Mechanisms of non-factual hallucinations in language models
+- [TRAWL: Tensor Reduced and Approximated Weights for Large Language Models](https://arxiv.org/abs/2406.17261)  
+    Y Luo, H Patel, Y Fu, D Ahn, J Chen, __Yue Dong__, EE Papalexakis  
+    *arXiv preprint arXiv:2406.17261*  
 
+- [Progressive Query Expansion for Retrieval Over Cost-constrained Data Sources](https://arxiv.org/abs/2406.07136)  
+    MS Rashid, JA Meem, __Yue Dong__, V Hristidis  
+    *arXiv preprint arXiv:2406.07136*  
+
+- [PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling](https://arxiv.org/abs/2406.02069)  
+    Y Zhang, B Gao, T Liu, K Lu, W Xiong, __Yue Dong__, B Chang, J Hu, W Xiao  
+    *arXiv preprint arXiv:2406.02069*  
+
+- [Cross-Modal Safety Alignment: Is textual unlearning all you need?](https://arxiv.org/abs/2406.02575)  
+    T Chakraborty, E Shayegani, Z Cai, N Abu-Ghazaleh, MS Asif, __Yue Dong__  
+    *arXiv preprint arXiv:2406.02575*  
+
+- [Uncertainty Awareness of Large Language Models Under Code Distribution Shifts: A Benchmark Study](https://arxiv.org/abs/2402.05939)  
+    Y Li, S Chen, Y Guo, W Yang, __Yue Dong__, C Liu  
+    *arXiv preprint arXiv:2402.05939*  
+
+
+- [BiRNA-BERT Allows Efficient RNA Language Modeling with Adaptive Tokenization](https://biorxiv.org/content/early/2024/07/02/601703)  
+    MT Tahmid, HS Shahgir, S Mahbub, __Yue Dong__, MS Bayzid  
+    *bioRxiv* 
+    
+- [Mechanisms of non-factual hallucinations in language models](https://arxiv.org/abs/2403.18167)  
+    L Yu, M Cao, JCK Cheung, __Yue Dong__  
+ *arXiv preprint arXiv:2403.18167*  
 
 ### 2023
 [18] Survey of vulnerabilities in large language models revealed by adversarial attacks
