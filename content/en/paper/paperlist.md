@@ -2,58 +2,96 @@
 draft = false
 +++
 
-## 2024
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Publications</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .publication {
+            font-size: 0.9em;
+        }
+        .title {
+            font-weight: bold;
+        }
+        .authors {
+            margin-left: 20px;
+        }
+        .venue {
+            margin-left: 20px;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <h1>Publications</h1>
 
-### Peer-reviewed
+    <div class="publication">
+        <p class="title">[28] <a href="https://arxiv.org/abs/2403.15952">IllusionVQA: A Challenging Optical Illusion Dataset for Vision Language Models</a></p>
+        <p class="authors">Haz Sameen Shahgir, Khondker Salman Sayeed, Abhik Bhattacharjee, Wasi Uddin Ahmad, <u>Yue Dong</u>, Rifat Shahriyar</p>
+        <p class="venue">Conference on Language Modeling (COLM) 2024</p>
+    </div>
 
-# Publications
+    <div class="publication">
+        <p class="title">[27] <a href="https://arxiv.org/abs/2312.06924">Cross-task defense: Instruction-tuning LLMs for content safety</a></p>
+        <p class="authors">Yu Fu, Wen Xiao, Jia Chen, Jiachen Li, Evangelos Papalexakis, Aichi Chien, <u>Yue Dong</u></p>
+        <p class="venue">TrustNLP Workshop @ NAACL 2024</p>
+    </div>
 
-## 2024
+    <div class="publication">
+        <p class="title">[26] <a href="https://arxiv.org/abs/2312.06924">Safety Alignment in NLP Tasks: Weakly Aligned Summarization as an In-Context Attack</a></p>
+        <p class="authors">Yu Fu, Yufei Li, Wen Xiao, Cong Liu, <u>Yue Dong</u></p>
+        <p class="venue">ACL 2024</p>
+    </div>
 
-### Peer-reviewed
+    <div class="publication">
+        <p class="title">[25] <a href="https://arxiv.org/abs/2312.14440">Asymmetric Bias in Text-to-Image Generation with Adversarial Attacks</a></p>
+        <p class="authors">Haz Sameen Shahgir, Xianghao Kong, Greg Ver Steeg, <u>Yue Dong</u></p>
+        <p class="venue">ACL Findings 2024</p>
+    </div>
 
-[28] [IllusionVQA: A Challenging Optical Illusion Dataset for Vision Language Models](https://arxiv.org/abs/2403.15952)  
-    Haz Sameen Shahgir, Khondker Salman Sayeed, Abhik Bhattacharjee, Wasi Uddin Ahmad, __Yue Dong__, Rifat Shahriyar  
-    *Conference on Language Modeling (COLM) 2024*
+    <div class="publication">
+        <p class="title">[24] <a href="https://arxiv.org/abs/2311.09443">Subtle Misogyny Detection and Mitigation: An Expert-Annotated Dataset</a></p>
+        <p class="authors">Brooklyn Sheppard, Anna Richter, Allison Cohen, Elizabeth Allyn Smith, Tamara Kneese, Carolyne Pelletier, Ioana Baldini, <u>Yue Dong</u></p>
+        <p class="venue">ACL Findings 2024</p>
+    </div>
 
-[27] [Cross-task defense: Instruction-tuning LLMs for content safety](https://arxiv.org/abs/2312.06924)
-    Yu Fu, Wen Xiao, Jia Chen, Jiachen Li, Evangelos Papalexakis, Aichi Chien, __Yue Dong__  
-    *TrustNLP Workshop @ NAACL 2024*
+    <div class="publication">
+        <p class="title">[23] <a href="https://arxiv.org/abs/2212.09563">Source-Free Domain Adaptation for Question Answering with Masked Self-training</a></p>
+        <p class="authors">Maxwell Yin, Boyu Wang, <u>Yue Dong</u>, Charles Ling</p>
+        <p class="venue">TACL 2024</p>
+    </div>
 
-[26] [Safety Alignment in NLP Tasks: Weakly Aligned Summarization as an In-Context Attack](https://arxiv.org/abs/2312.06924)  
-    Yu Fu, Yufei Li, Wen Xiao, Cong Liu, __Yue Dong__  
-    *ACL 2024*
+    <div class="publication">
+        <p class="title">[22] <a href="https://arxiv.org/abs/2402.11034">PAT-Questions: A Self-Updating Benchmark for Present-Anchored Temporal Question-Answering</a></p>
+        <p class="authors">Jannat Ara Meem, Muhammad Shihab Rashid, <u>Yue Dong</u>, Vagelis Hristidis</p>
+        <p class="venue">ACL Findings 2024</p>
+    </div>
 
-[25] [Asymmetric Bias in Text-to-Image Generation with Adversarial Attacks](https://arxiv.org/abs/2312.14440)  
-    Haz Sameen Shahgir, Xianghao Kong, Greg Ver Steeg, __Yue Dong__  
-    *ACL Findings 2024*
+    <div class="publication">
+        <p class="title">[21] <a href="https://arxiv.org/abs/2402.10866">EcoRank: Budget-Constrained Text Re-ranking Using Large Language Models</a></p>
+        <p class="authors">Muhammad Shihab Rashid, Jannat Ara Meem, <u>Yue Dong</u>, Vagelis Hristidis</p>
+        <p class="venue">ACL Findings 2024</p>
+    </div>
 
-[24] [Subtle Misogyny Detection and Mitigation: An Expert-Annotated Dataset](https://arxiv.org/abs/2311.09443)  
-    Brooklyn Sheppard, Anna Richter, Allison Cohen, Elizabeth Allyn Smith, Tamara Kneese, Carolyne Pelletier, Ioana Baldini, __Yue Dong__  
-    *ACL Findings 2024*
+    <div class="publication">
+        <p class="title">[20] <a href="https://arxiv.org/abs/2401.12345">Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models</a></p>
+        <p class="authors">Erfan Shayegani, <u>Yue Dong</u>, Nael Abu-Ghazaleh</p>
+        <p class="venue">ICLR 2024</p>
+    </div>
 
-[23] [Source-Free Domain Adaptation for Question Answering with Masked Self-training](https://arxiv.org/abs/2212.09563)  
-    Maxwell Yin, Boyu Wang, __Yue Dong__, Charles Ling  
-    *TACL 2024*
+    <div class="publication">
+        <p class="title">[19] <a href="https://arxiv.org/abs/2401.67890">Watermarking conditional text generation for AI detection: Unveiling challenges and a semantic-aware watermark remedy</a></p>
+        <p class="authors">Yu Fu, Deyi Xiong, <u>Yue Dong</u></p>
+        <p class="venue">AAAI 2024</p>
+    </div>
 
-[22] [PAT-Questions: A Self-Updating Benchmark for Present-Anchored Temporal Question-Answering](https://arxiv.org/abs/2402.11034)  
-    Jannat Ara Meem, Muhammad Shihab Rashid, __Yue Dong__, Vagelis Hristidis  
-    *ACL Findings 2024*
-
-[21] [EcoRank: Budget-Constrained Text Re-ranking Using Large Language Models](https://arxiv.org/abs/2402.10866)  
-    Muhammad Shihab Rashid, Jannat Ara Meem, __Yue Dong__, Vagelis Hristidis  
-    *ACL Findings 2024*
-
-[20] Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models  
-    Erfan Shayegani, __Yue Dong__, Nael Abu-Ghazaleh  
-    *ICLR 2024*
-
-[19] [Watermarking conditional text generation for AI detection: Unveiling challenges and a semantic-aware watermark remedy](https://arxiv.org/abs/2401.67890)    
-    Yu Fu, Deyi Xiong, __Yue Dong__  
-    *AAAI 2024*
+    <h2>Pre-prints</h2>
     
-### Pre-prints
-
 - [TRAWL: Tensor Reduced and Approximated Weights for Large Language Models](https://arxiv.org/abs/2406.17261)  
     Y Luo, H Patel, Y Fu, D Ahn, J Chen, __Yue Dong__, EE Papalexakis  
     *arXiv preprint arXiv:2406.17261*  
