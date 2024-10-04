@@ -2,6 +2,7 @@
 draft = false
 +++
 ### Fundings: 
+- Graduate Assistance in Areas of National Need (GAANN) Program, Co-PI, Sep. 2024
 - UTCRS, Co-PI, June 2024
 - Regents Faculty Fellowship grant, PI, July 2023
 - UCR OASIS Internal Funding Awards, PI, June 2023 
