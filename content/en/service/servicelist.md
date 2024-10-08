@@ -15,10 +15,13 @@ draft = false
 - NAACL 2022 tutorial on [Text Generation with Text-Editing Models](https://text-editing.github.io/)
 
 ### Senior Area Chair
+- NAACL 2025 - Summarization Track
+- EMNLP 2024 - Low-resource Methods for NLP Track
 - NAACL 2024 Efficient/Low-resource Methods for NLP Track
 - IJCNLP-AACL 2023 Generation and Summarization Track
 
 ### Area Chair
+- ICLR 2025
 - NLPCC 2023 Generation and Summarization Track
 - EMNLP 2023, 2022 Summarization Track
 - ACL 2021 Nov. Rolling Review
