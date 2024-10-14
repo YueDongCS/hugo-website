@@ -66,7 +66,7 @@ Hi, I am Yue (/yoo-eh/) Dong, an assistant professor of computer science and eng
 
 My research interests include natural language processing, machine learning, and artificial intelligence. I lead the Natural Language Processing group at UCR, which develops natural language understanding and generation systems that are controllable, trustworthy, and efficient. 
 
-**Prospective Students** (Updated on March, 2024): Thank you for your interest! **I have 2 co-advised openings for self-motivated PhD candidates in the field of NLP+RL/theory and NLP+CV/robotics for Winter 2025 or Fall 2024.** If you are interested in working with me, please  fill out the [UCRNLP PhD application form](https://forms.gle/5pfWnBfMmaYLUUCs5) to highlight your potential in ML/NLP research and to assess the alignment with my research interests. Please understand that I will only respond to PhD email inquiries accompanied by a [completed form submission](https://forms.gle/5pfWnBfMmaYLUUCs5) due to the large amount of emails.
+**Prospective Students** (Updated on Oct., 2024): Thank you for your interest! **I have 2 co-advised openings for self-motivated PhD candidates Fall 2025.** If you are interested in working with me, please  fill out the [UCRNLP PhD application form](https://forms.gle/5pfWnBfMmaYLUUCs5) to highlight your potential in ML/NLP research and to assess the alignment with my research interests. Please understand that I will only respond to PhD email inquiries accompanied by a [completed form submission](https://forms.gle/5pfWnBfMmaYLUUCs5) due to the large amount of emails.
 
 <!--
 [apply officially](https://www1.cs.ucr.edu/graduate/admissions/overview) by Jan. 5th 2024. Additionally, you may
