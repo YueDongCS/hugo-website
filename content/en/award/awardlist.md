@@ -2,10 +2,10 @@
 draft = false
 +++
 ### Fundings: 
-
-- UTCRS, Co-PI, June 2024
-- Regents Faculty Fellowship grant, PI, July 2023
-- UCR OASIS Internal Funding Awards, PI, June 2023 
+- NSF CISE MSI, Co-PI, Jan. 2025- Dec. 2027
+- UTCRS, Co-PI, June 2024 - June 2025
+- Regents Faculty Fellowship grant, PI, July 2023 - June 2025
+- UCR OASIS Internal Funding Awards, PI, June 2023 - June 2024
 
 
 ### Academic Awards: 
@@ -24,4 +24,4 @@ draft = false
 - [<span style="color:red"> **First prize in mathematics competition in Shaanxi province, China, 2008** </span>](http://www.sneac.com/info/1009/2054.htm)
 
 ### Other Awards:
-- Graduate Assistance in Areas of National Need (GAANN) Program, Co-PI, Sep. 2024
+- [Graduate Assistance in Areas of National Need (GAANN) Program](https://news.ucr.edu/articles/2024/10/15/uc-riverside-receives-seven-grants-totaling-7m-graduate-education), U.S. Department of Education, Co-PI, Sep. 2024
