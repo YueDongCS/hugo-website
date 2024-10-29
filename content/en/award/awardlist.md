@@ -2,7 +2,7 @@
 draft = false
 +++
 ### Fundings: 
-- Graduate Assistance in Areas of National Need (GAANN) Program, Co-PI, Sep. 2024
+
 - UTCRS, Co-PI, June 2024
 - Regents Faculty Fellowship grant, PI, July 2023
 - UCR OASIS Internal Funding Awards, PI, June 2023 
@@ -22,3 +22,6 @@ draft = false
 - University of Ottawa Women’s Summer Research Award, Summer 2013
 - University of Ottawa Work/Study Research Award, Summer 2012
 - [<span style="color:red"> **First prize in mathematics competition in Shaanxi province, China, 2008** </span>](http://www.sneac.com/info/1009/2054.htm)
+
+### Other Awards:
+- Graduate Assistance in Areas of National Need (GAANN) Program, Co-PI, Sep. 2024
