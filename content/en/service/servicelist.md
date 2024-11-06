@@ -16,12 +16,9 @@ draft = false
 
 ### Senior Area Chair
 <<<<<<< HEAD
+- ACL 2025 Summarization
 - NAACL 2025 Summarization
 - EMNLP 2024 Low-resource Methods for NLP
-=======
-- NAACL 2025 - Summarization Track
-- EMNLP 2024 - Low-resource Methods for NLP Track
->>>>>>> 7afa8dfe3c780c0558980c59a4c40c90974ce92f
 - NAACL 2024 Efficient/Low-resource Methods for NLP Track
 - IJCNLP-AACL 2023 Generation and Summarization Track
 
@@ -33,6 +30,7 @@ draft = false
 - ACL 2021 Nov. Rolling Review
 
 ### Reviewer
+- 2025: ACL/EMNLP/NAACL tutorials
 - 2024: COLM
 - 2023: ACL, IJCAI, NeurIPS, NeurIPS Workshop Proposals
 - 2022: ARR, COLING
