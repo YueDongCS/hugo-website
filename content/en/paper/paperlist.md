@@ -6,7 +6,21 @@ draft = false
 
 ## 2024
 
-### Peer-reviewed
+[32] [Mechanisms of non-factual hallucinations in language models](https://arxiv.org/abs/2403.18167)  
+Yu Lei, Meng Cao, JCK Cheung, <u>Yue Dong</u>  
+*EMNLP 2024 Findings*
+
+[31] [Adversarial Attacks on Parts of Speech: An Empirical Study in Text-to-Image Generation](https://arxiv.org/abs/2409.15381)  
+GM Shahariar, Jia Chen, Jiachen Li, <u>Yue Dong</u>  
+*EMNLP 2024 Findings*
+
+[30] [Cross-Modal Safety Alignment: Is textual unlearning all you need?](https://arxiv.org/abs/2406.02575)  
+Trishna Chakraborty, Erfan Shayegani, Zikui Cai, Nael Abu-Ghazaleh, M Salman Asif, <u>Yue Dong</u>, Amit Roy-Chowdhury, Chengyu Song  
+*EMNLP 2024 Findings*
+
+[29] [How to Leverage Personal Textual Knowledge for Personalized Conversational Information Retrieval](https://dl.acm.org/doi/abs/10.1145/3627673.3679939)  
+Fengran Mo, Longxiang Zhao, Kaiyu Huang, <u>Yue Dong</u>, Degen Huang, Jian-Yun Nie  
+*CIKM 2024*
 
 [28] [IllusionVQA: A Challenging Optical Illusion Dataset for Vision Language Models](https://arxiv.org/abs/2403.15952)  
 Haz Sameen Shahgir, Khondker Salman Sayeed, Abhik Bhattacharjee, Wasi Uddin Ahmad, <u>Yue Dong</u>, Rifat Shahriyar  
@@ -47,36 +61,6 @@ Erfan Shayegani, <u>Yue Dong</u>, Nael Abu-Ghazaleh
 [19] [Watermarking conditional text generation for AI detection: Unveiling challenges and a semantic-aware watermark remedy](https://arxiv.org/abs/2401.67890)  
 Yu Fu, Deyi Xiong, <u>Yue Dong</u>  
 *AAAI 2024*
-
-### Pre-prints
-
-- [TRAWL: Tensor Reduced and Approximated Weights for Large Language Models](https://arxiv.org/abs/2406.17261)  
-Y Luo, H Patel, Y Fu, D Ahn, J Chen, <u>Yue Dong</u>, EE Papalexakis  
-*arXiv preprint arXiv:2406.17261*  
-
-- [Progressive Query Expansion for Retrieval Over Cost-constrained Data Sources](https://arxiv.org/abs/2406.07136)  
-MS Rashid, JA Meem, <u>Yue Dong</u>, V Hristidis  
-*arXiv preprint arXiv:2406.07136*  
-
-- [PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling](https://arxiv.org/abs/2406.02069)  
-Y Zhang, B Gao, T Liu, K Lu, W Xiong, <u>Yue Dong</u>, B Chang, J Hu, W Xiao  
-*arXiv preprint arXiv:2406.02069*  
-
-- [Cross-Modal Safety Alignment: Is textual unlearning all you need?](https://arxiv.org/abs/2406.02575)  
-T Chakraborty, E Shayegani, Z Cai, N Abu-Ghazaleh, MS Asif, <u>Yue Dong</u>  
-*arXiv preprint arXiv:2406.02575*  
-
-- [Uncertainty Awareness of Large Language Models Under Code Distribution Shifts: A Benchmark Study](https://arxiv.org/abs/2402.05939)  
-Y Li, S Chen, Y Guo, W Yang, <u>Yue Dong</u>, C Liu  
-*arXiv preprint arXiv:2402.05939*  
-
-- [BiRNA-BERT Allows Efficient RNA Language Modeling with Adaptive Tokenization](https://biorxiv.org/content/early/2024/07/02/601703)  
-MT Tahmid, HS Shahgir, S Mahbub, <u>Yue Dong</u>, MS Bayzid  
-*bioRxiv*  
-
-- [Mechanisms of non-factual hallucinations in language models](https://arxiv.org/abs/2403.18167)  
-L Yu, M Cao, JCK Cheung, <u>Yue Dong</u>  
-*arXiv preprint arXiv:2403.18167*
 
 
 ### 2023
