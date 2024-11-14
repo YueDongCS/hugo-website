@@ -56,43 +56,87 @@ Muhammad Shihab Rashid, Jannat Ara Meem, <u>Yue Dong</u>, Vagelis Hristidis
 
 [20] [Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models](https://arxiv.org/abs/2401.12345)  
 Erfan Shayegani, <u>Yue Dong</u>, Nael Abu-Ghazaleh  
-*ICLR 2024*
+*ICLR 2024 (Spotlight), Best Paper Award at 2023 SoCal NLP Symposium*
 
 [19] [Watermarking conditional text generation for AI detection: Unveiling challenges and a semantic-aware watermark remedy](https://arxiv.org/abs/2401.67890)  
 Yu Fu, Deyi Xiong, <u>Yue Dong</u>  
 *AAAI 2024*
 
-
 ### 2023
-[18] Survey of vulnerabilities in large language models revealed by adversarial attacks
-[17] Inverse Reinforcement Learning for Text Summarization
+[18] [Subtle Misogyny Detection and Mitigation: An Expert-Annotated Dataset](#)  
+Brooklyn Sheppard, Anna Richter, Allison Cohen, Elizabeth Allyn Smith, Tamara Kneese, Carolyne Pelletier, Ioana Baldini, <u>Yue Dong</u>  
+*NeurIPS 2023 SoLaR Workshop (Spotlight)*
 
+[17] [Inverse Reinforcement Learning for Text Summarization](#)  
+Yu Fu, Deyi Xiong, <u>Yue Dong</u>  
+*Findings of EMNLP 2023*
 
 ### 2022
-[16] Learning with Rejection for Abstractive Text Summarization
-[15] Hallucinated but factual! inspecting the factuality of hallucinations in abstractive summarization
-[14] Faithful to the document or to the world? mitigating hallucinations via entity-linked knowledge in abstractive summarization
+[16] [Faithful to the Document or to the World? Mitigating Hallucinations via Entity-Linked Knowledge in Abstractive Summarization](#)  
+<u>Yue Dong</u>, John Wieting, Pat Verga  
+*Findings of EMNLP 2022*
+
+[15] [Learning with Rejection for Abstractive Text Summarization](#)  
+Meng Cao, <u>Yue Dong</u>, Jingyi He, Jackie Chi Kit Cheung  
+*EMNLP 2022*
+
+[14] [Hallucinated but Factual! Inspecting the Factuality of Hallucinations in Abstractive Summarization](#)  
+Meng Cao, <u>Yue Dong</u>, Jackie C. K. Cheung  
+*ACL 2022*
 
 ### 2021
-[13] On-the-fly attention modulation for neural generation
-[12] Bringing structure into summaries: a faceted summarization dataset for long scientific documents
-[11] Discourse-Aware Unsupervised Summarization of Long Scientific Documents
+[13] [On-the-Fly Attention Modulation for Neural Generation](#)  
+<u>Yue Dong</u>, Chandra Bhagavatula, Ximing Lu, Jena D. Hwang, Antoine Bosselut, Jackie C. K. Cheung, Yejin Choi  
+*Findings of ACL 2021*
 
+[12] [Bringing Structure into Summaries: a Faceted Summarization Dataset for Long Scientific Documents](#)  
+Rui Meng, Khushboo Thaker, Lei Zhang, <u>Yue Dong</u>, Xingdi Yuan, Tong Wang, Daqing He  
+*ACL 2021*
+
+[11] [Discourse-Aware Unsupervised Summarization for Long Scientific Documents](#)  
+<u>Yue Dong</u>*, Andrei Romascanu*, Jackie C. K. Cheung  
+*EACL 2021*
 
 ### 2020
+[10] [Multi-Fact Correction in Abstractive Text Summarization](#)  
+<u>Yue Dong</u>, Shuohang Wang, Zhe Gan, Yu Cheng, Jackie C. K. Cheung, Jingjing Liu  
+*EMNLP 2020*
 
-[10] Factual error correction for abstractive summarization models
-[9]  Multi-XScience: A large-scale dataset for extreme multi-document summarization of scientific articles
-[8] Multi-fact correction in abstractive text summarization
+[9] [Multi-XScience: A Large-scale Dataset for Extreme Multi-document Summarization of Scientific Articles](#)  
+Yao Lu, <u>Yue Dong</u>, Laurent Charlin  
+*EMNLP 2020*
 
-### 2019 
-[7] Countering the Effects of Lead Bias in News Summarization via Multi-Stage Training and Auxiliary Losses
-[6] Learning multi-task communication with message passing for sequence learning
-[5] EditNTS: An Neural Programmer-Interpreter Model for Sentence Simplification through Explicit Editing
+[8] [Factual Error Correction for Abstractive Summarization Models](#)  
+Meng Cao, <u>Yue Dong</u>, Jiapeng Wu, Jackie C. K. Cheung  
+*EMNLP 2020*
 
-### Before 2018 
-[4]  Banditsum: Extractive summarization as a contextual bandit
-[3] Threaded ensembles of autoencoders for stream learning
-[2] A hierarchical neural attention-based text classifier
-[1] Threaded ensembles of supervised and unsupervised neural networks for stream learning
- 
+### 2019
+[7] [Countering the Effects of Lead Bias in News Summarization via Multi-Stage Training and Auxiliary Losses](#)  
+<u>Yue Dong</u>*, Matt Grenander*, Jackie C. K. Cheung, Annie Louis  
+*EMNLP-IJCNLP 2019*
+
+[6] [EditNTS: A Neural Programmer-Interpreter Model for Sentence Simplification through Explicit Editing](#)  
+<u>Yue Dong</u>, Zichao Li, Mehdi Rezagholizadeh, Jackie C. K. Cheung  
+*ACL 2019 (Oral)*
+
+[5] [Learning Multi-task Communication with Message Passing for Sequence Learning](#)  
+Pengfei Liu, <u>Yue Dong</u>*, Jie Fu*, Xipeng Qiu, Jackie C. K. Cheung  
+*AAAI 2019*
+
+### Before 2018
+[4] [BanditSum: Extractive Summarization as a Contextual Bandit](#)  
+<u>Yue Dong</u>*, Yikang Shen*, Eric Crawford, Herke van Hoof, Jackie C. K. Cheung  
+*EMNLP 2018 (Oral)*
+
+[3] [A Hierarchical Neural Attention-based Text Classifier](#)  
+Koustuv Sinha, <u>Yue Dong</u>, Jackie C. K. Cheung, Derek Ruths  
+*EMNLP 2018*
+
+[2] [Threaded ensembles of autoencoders for stream learning](#)  
+<u>Yue Dong</u>, Nathalie Japkowicz  
+*Computational Intelligence 2018*
+
+[1] [Threaded ensembles of supervised and unsupervised neural networks for stream learning](#)  
+<u>Yue Dong</u>, Nathalie Japkowicz  
+*Canadian Conference on Artificial Intelligence 2016 <span style="color:red">(Best Paper Award)</span>*
+
