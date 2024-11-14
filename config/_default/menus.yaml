@@ -14,7 +14,7 @@ main:
     url: '/lab/lablist'
     weight: 30
   - name: Publications
-    url: '/publication'
+    url: '/pubs/publist'
     weight: 50
   - name: Teachings
     url: '/teaching/teachinglist'
