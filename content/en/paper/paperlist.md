@@ -56,7 +56,7 @@ Muhammad Shihab Rashid, Jannat Ara Meem, <u>Yue Dong</u>, Vagelis Hristidis
 
 [20] [Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models](https://arxiv.org/abs/2401.12345)  
 Erfan Shayegani, <u>Yue Dong</u>, Nael Abu-Ghazaleh  
-*ICLR 2024 (Spotlight), Best Paper Award at 2023 SoCal NLP Symposium*
+*ICLR 2024 (Spotlight), <span style="color:red">Best Paper Award at 2023 SoCal NLP Symposium</span>*
 
 [19] [Watermarking conditional text generation for AI detection: Unveiling challenges and a semantic-aware watermark remedy](https://arxiv.org/abs/2401.67890)  
 Yu Fu, Deyi Xiong, <u>Yue Dong</u>  
