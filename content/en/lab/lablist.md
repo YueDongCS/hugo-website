@@ -13,8 +13,8 @@ Yue Dong, assistant professor of computer science and engineering
 #### PhD Students 
 - [Yu Fu](https://fyyfu.github.io/), since Fall 2023
 - [Erfan Shayegani](https://erfanshayegani.github.io/) (co-advise with [Prof. Nael B. Abu-Ghazaleh](https://www.cs.ucr.edu/~nael/)), since Summer 2023
-- [Haz Sameen Shahgir](https://github.com/Patchwork53), incoming Fall 2024
-- [G M Shahariar Shibli](https://shahariar-shibli.github.io/), incoming Fall 2024
+- [Haz Sameen Shahgir](https://github.com/Patchwork53),  Fall 2024
+- [G M Shahariar Shibli](https://shahariar-shibli.github.io/), Fall 2024
 
 #### MSc Students 
 - Niyathi Allu 
