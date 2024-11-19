@@ -13,4 +13,4 @@ header:
 ---
 
 
-{{< readfromfile "/content/en/paper/paperlist.md" 1000 >}} 
+{{< readfromfile "/content/en/pubs/publist.md" 1000 >}} 
