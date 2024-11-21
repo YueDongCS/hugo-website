@@ -24,4 +24,5 @@ draft = false
 - [<span style="color:red"> **First prize in mathematics competition in Shaanxi province, China, 2008** </span>](http://www.sneac.com/info/1009/2054.htm)
 
 ### Other Awards:
+- 2024-25 AiC Affiliate Assistance Fund (Outreach) 
 - [Graduate Assistance in Areas of National Need (GAANN) Program](https://news.ucr.edu/articles/2024/10/15/uc-riverside-receives-seven-grants-totaling-7m-graduate-education), U.S. Department of Education, Co-PI, Sep. 2024
