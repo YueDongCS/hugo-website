@@ -14,37 +14,37 @@ Yu Lei, Meng Cao, JCK Cheung, <u>Yue Dong</u>
 GM Shahariar, Jia Chen, Jiachen Li, <u>Yue Dong</u>  
 *EMNLP 2024 Findings*
 
-[30] [Cross-Modal Safety Alignment: Is textual unlearning all you need?](https://arxiv.org/abs/2406.02575)  
-Trishna Chakraborty, Erfan Shayegani, Zikui Cai, Nael Abu-Ghazaleh, M Salman Asif, <u>Yue Dong</u>, Amit Roy-Chowdhury, Chengyu Song  
-*EMNLP 2024 Findings*
-
-[29] [How to Leverage Personal Textual Knowledge for Personalized Conversational Information Retrieval](https://dl.acm.org/doi/abs/10.1145/3627673.3679939)  
+[30] [How to Leverage Personal Textual Knowledge for Personalized Conversational Information Retrieval](https://dl.acm.org/doi/abs/10.1145/3627673.3679939)  
 Fengran Mo, Longxiang Zhao, Kaiyu Huang, <u>Yue Dong</u>, Degen Huang, Jian-Yun Nie  
 *CIKM 2024*
 
-[28] [IllusionVQA: A Challenging Optical Illusion Dataset for Vision Language Models](https://arxiv.org/abs/2403.15952)  
+[29] [IllusionVQA: A Challenging Optical Illusion Dataset for Vision Language Models](https://arxiv.org/abs/2403.15952)  
 Haz Sameen Shahgir, Khondker Salman Sayeed, Abhik Bhattacharjee, Wasi Uddin Ahmad, <u>Yue Dong</u>, Rifat Shahriyar  
 *Conference on Language Modeling (COLM) 2024*
 
-[27] [Cross-task defense: Instruction-tuning LLMs for content safety](https://arxiv.org/abs/2312.06924)  
-Yu Fu, Wen Xiao, Jia Chen, Jiachen Li, Evangelos Papalexakis, Aichi Chien, <u>Yue Dong</u>  
-*TrustNLP Workshop @ NAACL 2024*
-
-[26] [Safety Alignment in NLP Tasks: Weakly Aligned Summarization as an In-Context Attack](https://arxiv.org/abs/2312.06924)  
+[28] [Safety Alignment in NLP Tasks: Weakly Aligned Summarization as an In-Context Attack](https://arxiv.org/abs/2312.06924)  
 Yu Fu, Yufei Li, Wen Xiao, Cong Liu, <u>Yue Dong</u>  
 *ACL 2024*
 
-[25] [Asymmetric Bias in Text-to-Image Generation with Adversarial Attacks](https://arxiv.org/abs/2312.14440)  
+[27] [Source-Free Domain Adaptation for Question Answering with Masked Self-training](https://arxiv.org/abs/2212.09563)  
+Maxwell Yin, Boyu Wang, <u>Yue Dong</u>, Charles Ling  
+*TACL 2024*
+
+[26] [Asymmetric Bias in Text-to-Image Generation with Adversarial Attacks](https://arxiv.org/abs/2312.14440)  
 Haz Sameen Shahgir, Xianghao Kong, Greg Ver Steeg, <u>Yue Dong</u>  
 *ACL Findings 2024*
+
+[25] [Cross-Modal Safety Alignment: Is textual unlearning all you need?](https://arxiv.org/abs/2406.02575)  
+Trishna Chakraborty, Erfan Shayegani, Zikui Cai, Nael Abu-Ghazaleh, M Salman Asif, <u>Yue Dong</u>, Amit Roy-Chowdhury, Chengyu Song  
+*EMNLP 2024 Findings*
 
 [24] [Subtle Misogyny Detection and Mitigation: An Expert-Annotated Dataset](https://arxiv.org/abs/2311.09443)  
 Brooklyn Sheppard, Anna Richter, Allison Cohen, Elizabeth Allyn Smith, Tamara Kneese, Carolyne Pelletier, Ioana Baldini, <u>Yue Dong</u>  
 *ACL Findings 2024*
 
-[23] [Source-Free Domain Adaptation for Question Answering with Masked Self-training](https://arxiv.org/abs/2212.09563)  
-Maxwell Yin, Boyu Wang, <u>Yue Dong</u>, Charles Ling  
-*TACL 2024*
+[23] [Cross-task defense: Instruction-tuning LLMs for content safety](https://arxiv.org/abs/2312.06924)  
+Yu Fu, Wen Xiao, Jia Chen, Jiachen Li, Evangelos Papalexakis, Aichi Chien, <u>Yue Dong</u>  
+*TrustNLP Workshop @ NAACL 2024*
 
 [22] [PAT-Questions: A Self-Updating Benchmark for Present-Anchored Temporal Question-Answering](https://arxiv.org/abs/2402.11034)  
 Jannat Ara Meem, Muhammad Shihab Rashid, <u>Yue Dong</u>, Vagelis Hristidis  
