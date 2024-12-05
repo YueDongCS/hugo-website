@@ -6,9 +6,8 @@ draft = false
 
 ## 2024
 
-[32] [Mechanisms of non-factual hallucinations in language models](https://arxiv.org/abs/2403.18167)  
-Yu Lei, Meng Cao, JCK Cheung, <u>Yue Dong</u>  
-*EMNLP 2024 Findings*
+[32] [Mechanisms of non-factual hallucinations in language models](https://arxiv.org/abs/2403.18167)<br>Yu Lei, Meng Cao, JCK Cheung, <u>Yue Dong</u><br>*EMNLP 2024 Findings*
+
 
 [31] [Adversarial Attacks on Parts of Speech: An Empirical Study in Text-to-Image Generation](https://arxiv.org/abs/2409.15381)  
 GM Shahariar, Jia Chen, Jiachen Li, <u>Yue Dong</u>  
