@@ -3,7 +3,7 @@ draft = false
 +++
 
 # Publications
-## 2024
+## 2025
 [33] [Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning](https://arxiv.org/abs/2410.19258)<br>Yu Fu, Zefan Cai, Abedelkadir Asi, Wayne Xiong, <u>Yue Dong</u>, Wen Xiao<br>*ICLR 2025*  
 
 ## 2024
