@@ -30,9 +30,9 @@ draft = false
 - ACL 2021 Nov. Rolling Review
 
 ### Reviewer
-- 2025: ACL/EMNLP/NAACL tutorials
+- 2025: ACL/EMNLP/NAACL tutorial proposals/ICML workshop proposals 
 - 2024: COLM
-- 2023: ACL, IJCAI, NeurIPS, NeurIPS Workshop Proposals
+- 2023: ACL, IJCAI, NeurIPS, NeurIPS workshop proposals
 - 2022: ARR, COLING
 - 2021: ACL, EACL, NAACL
 - 2020: COLING, EMNLP, IJCAI, ACL
