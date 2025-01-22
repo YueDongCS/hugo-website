@@ -2,6 +2,7 @@
 draft = false
 +++
 - [1/2025] Our paper [Not all heads matter: A head-level KV cache compression method with integrated retrieval and reasoning](https://arxiv.org/abs/2410.19258), led by my PhD student [Yu Fu](https://fyyfu.github.io/), has been accepted into ICLR 2025!
+- [11/2024] I am honored to serve as a senior area chair for [ACL 2025](https://2025.aclweb.org/).
 - [10/2024] 5 papers from my group have been accepted to [SoCal NLP Symposium 2024](https://socalnlp.github.io/symp24/index.html).
 - [9/2024] Three papers on [hallucination interpretability](https://arxiv.org/abs/2403.18167), [cross-modal unlearning](https://arxiv.org/abs/2406.02575), and adversarial attacks have been accepted to EMNLP Findings.
 - [9/2024] I am honored to serve as a senior area chair for [NAACL 2025](https://2025.naacl.org/) and area chair for [ICLR 2025](https://iclr.cc/).
