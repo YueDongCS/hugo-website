@@ -1,6 +1,8 @@
 +++
 draft = false
 +++
+- [2/2025] Our paper "TRAWL: Tensor Reduced and Approximated Weights for Large Language Models" was accepted to PAKDD 2025 workshop.
+- [1/2025] Our paper "VIKI: Systematic Cross-Platform Profile Inference of Tech Users" was accepted to WebSci 2025.
 - [1/2025] Our paper "LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner" has been accepted at ICRA 2025.
 - [1/2025] Our paper [Not all heads matter: A head-level KV cache compression method with integrated retrieval and reasoning](https://arxiv.org/abs/2410.19258), led by my PhD student [Yu Fu](https://fyyfu.github.io/), has been accepted into ICLR 2025!
 - [11/2024] I am honored to serve as a senior area chair for [ACL 2025](https://2025.aclweb.org/).
