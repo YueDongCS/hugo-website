@@ -16,6 +16,7 @@ draft = false
 
 ### Senior Area Chair
 <<<<<<< HEAD
+- EMNLP 2025 Low-resource Methods for NLP
 - ACL 2025 Summarization
 - NAACL 2025 Summarization
 - EMNLP 2024 Low-resource Methods for NLP
