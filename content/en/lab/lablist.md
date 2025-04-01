@@ -12,11 +12,15 @@ Yue Dong, assistant professor of computer science and engineering
 
 #### PhD Students 
 - [Yu Fu](https://fyyfu.github.io/), since Fall 2023
-    - [EMNLP 2023 Findings](https://arxiv.org/abs/2212.09917), [AAAI 2024](https://arxiv.org/abs/2307.13808), [NNACL 2024 TrustNLP workshop](https://arxiv.org/abs/2405.15202), Microsoft 24 Summer Intern, [PAKDD 2025](https://arxiv.org/abs/2406.17261), [ACL 2024](https://arxiv.org/abs/2312.06924), [ICLR 2025](https://openreview.net/forum?id=FJFVmeXusW), Amazon 25 Summer Intern 
+    - [EMNLP 2023 Findings](https://arxiv.org/abs/2212.09917)
+    - [AAAI 2024](https://arxiv.org/abs/2307.13808), [NNACL 2024 TrustNLP workshop](https://arxiv.org/abs/2405.15202), [ACL 2024](https://arxiv.org/abs/2312.06924),Microsoft 24 Summer Intern
+    - [PAKDD 2025](https://arxiv.org/abs/2406.17261),  [ICLR 2025](https://openreview.net/forum?id=FJFVmeXusW), Amazon 25 Summer Intern 
 - [Erfan Shayegani](https://erfanshayegani.github.io/) (co-advise with [Prof. Nael B. Abu-Ghazaleh](https://www.cs.ucr.edu/~nael/)), since Summer 2023
-    - [ICLR2024](https://openreview.net/forum?id=plmBsXHxgR), Microsoft 24 Summer Intern, [EMNLP 2024 Findings](https://arxiv.org/pdf/2406.02575), Microsoft 25 Summer Intern 
+    - [ICLR2024](https://openreview.net/forum?id=plmBsXHxgR), [EMNLP 2024 Findings](https://arxiv.org/pdf/2406.02575), Microsoft 24 Summer Intern
+    - Microsoft 25 Summer Intern 
 - [Haz Sameen Shahgir](https://github.com/Patchwork53),  since Fall 2024
-    - [ACL 2024 Findings](https://arxiv.org/abs/2312.14440), [COLM 2024](https://arxiv.org/abs/2403.15952), Amazon 25 Summer Intern
+    - [ACL 2024 Findings](https://arxiv.org/abs/2312.14440), [COLM 2024](https://arxiv.org/abs/2403.15952)
+    - Amazon 25 Summer Intern
 - [G M Shahariar Shibli](https://shahariar-shibli.github.io/), since Fall 2024
     - [EMNLP 2024 Findings](https://arxiv.org/abs/2409.15381)
 
