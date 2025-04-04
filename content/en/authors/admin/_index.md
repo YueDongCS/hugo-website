@@ -69,8 +69,8 @@ My research interests include natural language processing, large language models
 **Prospective Students** (Updated April 2025):  
 Thank you for your interest! **I am planning to hire 1-2 co-advised PhD student for Fall 2026.**  
 You may apply directly through the [official UC Riverside website](https://www1.cs.ucr.edu/graduate/admissions).  
-You may also complete the [UCRNLP PhD application form](https://forms.gle/5pfWnBfMmaYLUUCs5).  
-Due to the volume of emails, I will only respond to inquiries that include a [completed form submission](https://forms.gle/5pfWnBfMmaYLUUCs5).  
+You may also complete the [UCRNLP PhD application form](https://forms.gle/G3j5noAWNqFafygcA).  
+Due to the volume of emails, I will only respond to inquiries that include a [completed form submission](https://forms.gle/G3j5noAWNqFafygcA).  
 
 At this time, I do not have openings for master's students.
 
