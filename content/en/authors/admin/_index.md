@@ -64,9 +64,15 @@ email: ""
 ---
 Hi, I am Yue (/yoo-eh/) Dong, an assistant professor of computer science and engineering at [the University of California, Riverside](https://www1.cs.ucr.edu/). I obtained my PhD in Computer Science at [McGill University](http://cs.mcgill.ca) and [Mila](https://mila.quebec), supervised by Dr. [Jackie Cheung](https://www.cs.mcgill.ca/~jcheung/). I was fortunate to intern at [Google AI](https://ai.google/), [AI2](https://allenai.org/), [Microsoft](https://www.microsoft.com/en-us/research/), and [Noah’s Ark Lab](http://dev3.noahlab.com.hk/) during my PhD.
 
-My research interests include natural language processing, machine learning, and artificial intelligence. I lead the Natural Language Processing group at UCR, which develops natural language understanding and generation systems that are controllable, trustworthy, and efficient. 
+My research interests include natural language processing, large language models, machine learning, and artificial intelligence. I lead the Natural Language Processing Group at UCR, where we focus on controllable text generation, trustworthy LLMs (e.g., adversarial robustness), and efficient LLMs (e.g., KV cache optimization).
 
-**Prospective Students** (Updated on Oct., 2024): Thank you for your interest! **I have 2 co-advised openings for self-motivated PhD candidates Fall 2025.**  You may apply directly through [the official UC Riverside website](https://www1.cs.ucr.edu/graduate/admissions). You may also fill out the [UCRNLP PhD application form](https://forms.gle/5pfWnBfMmaYLUUCs5). Due to the volume of emails, I will only respond to inquiries that include a [completed form submission](https://forms.gle/5pfWnBfMmaYLUUCs5). I currently do not have positions for master's students. 
+**Prospective Students** (Updated April 2025):  
+Thank you for your interest! **I am planning to hire 1-2 co-advised PhD student for Fall 2026.**  
+You may apply directly through the [official UC Riverside website](https://www1.cs.ucr.edu/graduate/admissions).  
+You may also complete the [UCRNLP PhD application form](https://forms.gle/5pfWnBfMmaYLUUCs5).  
+Due to the volume of emails, I will only respond to inquiries that include a [completed form submission](https://forms.gle/5pfWnBfMmaYLUUCs5).  
+
+At this time, I do not have openings for master's students.
 
 <!--
 [apply officially](https://www1.cs.ucr.edu/graduate/admissions/overview) by Jan. 5th 2024. Additionally, you may
