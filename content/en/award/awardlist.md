@@ -1,7 +1,7 @@
 +++
 draft = false
 +++
-### Fundings: 
+### Fundings:
 - NSF CISE MSI, Co-PI, Jan. 2025- Dec. 2027
 - UTCRS, Co-PI, June 2024 - June 2025
 - Regents Faculty Fellowship grant, PI, July 2023 - June 2025
