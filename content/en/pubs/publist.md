@@ -4,6 +4,8 @@ draft = false
 
 # Publications
 ## 2025
+[35] [Layer-wise Alignment: Examining Safety Alignment Across Image Encoder Layers in Vision Language Models]()<br>Saketh Bachu, Erfan Shayegani, Rohit Lal, Trishna Chakraborty, Arindam Dutta, Chengyu Song, <u>Yue Dong</u>, Nael B. Abu-Ghazaleh, Amit Roy-Chowdhury<br>*ICML 2025*  
+
 [34] [LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner]()<br>Xiaopan Zhang*, Hao Qin*, Fuquan Wang, <u>Yue Dong</u>, Jiachen Li<br>*ICRA 2025*  
 
 [33] [Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning](https://arxiv.org/abs/2410.19258)<br>Yu Fu, Zefan Cai, Abedelkadir Asi, Wayne Xiong, <u>Yue Dong</u>, Wen Xiao<br>*ICLR 2025*  

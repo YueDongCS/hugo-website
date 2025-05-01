@@ -1,6 +1,7 @@
 +++
 draft = false
 +++
+- [05/2025] Our paper "Layer-wise Alignment: Examining Safety Alignment Across Image Encoder Layers in Vision Language Models" was accepted to ICML as a spotlight poster. 
 - [2/2025] Our paper "TRAWL: Tensor Reduced and Approximated Weights for Large Language Models" was accepted to PAKDD 2025 workshop.
 - [1/2025] Our paper "VIKI: Systematic Cross-Platform Profile Inference of Tech Users" was accepted to WebSci 2025.
 - [1/2025] Our paper "LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner" has been accepted at ICRA 2025.
