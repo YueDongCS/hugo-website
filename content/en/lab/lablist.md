@@ -17,7 +17,7 @@ Yue Dong, assistant professor of computer science and engineering
     - 2025: [PAKDD 2025](https://arxiv.org/abs/2406.17261),  [ICLR 2025](https://openreview.net/forum?id=FJFVmeXusW), Amazon 25 Summer Intern 
 - [Erfan Shayegani](https://erfanshayegani.github.io/) (co-advise with [Prof. Nael B. Abu-Ghazaleh](https://www.cs.ucr.edu/~nael/)), since Summer 2023
     - 2024: [ICLR2024](https://openreview.net/forum?id=plmBsXHxgR), [EMNLP 2024 Findings](https://arxiv.org/pdf/2406.02575), Microsoft 24 Summer Intern
-    - 2025: Microsoft 25 Summer Intern 
+    - 2025: [ICML2025](), Microsoft 25 Summer Intern 
 - [Haz Sameen Shahgir](https://github.com/Patchwork53),  since Fall 2024
     - 2024: [ACL 2024 Findings](https://arxiv.org/abs/2312.14440), [COLM 2024](https://arxiv.org/abs/2403.15952)
     - 2025: Amazon 25 Summer Intern
