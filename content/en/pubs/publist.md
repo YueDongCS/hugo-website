@@ -9,6 +9,7 @@ draft = false
 [36] [VIKI: Systematic Cross-Platform Profile Inference of Tech Users]()<br>Ben Treves, Emiliano De Cristofaro,  <u>Yue Dong</u>, Michalis Faloutsosy<br>*WebSci 2025*  
 
 [35] [TRAWL: Tensor Reduced and Approximated Weights for Large Language Models]()<br>Yiran Luo, Het Patel, Yu Fu, Dawon Ahn, Jia Chen, <u>Yue Dong</u>, Evangelos E. Papalexakis<br>*PAKDD 2025 DSFA*
+
 [34] [LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner]()<br>Xiaopan Zhang*, Hao Qin*, Fuquan Wang, <u>Yue Dong</u>, Jiachen Li<br>*ICRA 2025*  
 
 [33] [Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning](https://arxiv.org/abs/2410.19258)<br>Yu Fu, Zefan Cai, Abedelkadir Asi, Wayne Xiong, <u>Yue Dong</u>, Wen Xiao<br>*ICLR 2025*  
