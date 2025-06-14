@@ -15,7 +15,7 @@ draft = false
 - NAACL 2022 tutorial on [Text Generation with Text-Editing Models](https://text-editing.github.io/)
 
 ### Senior Area Chair
-<<<<<<< HEAD
+- IJCNLP-AACL 2025 Ethics, Bias, and Fairness
 - EMNLP 2025 Low-resource Methods for NLP
 - ACL 2025 Summarization
 - NAACL 2025 Summarization
