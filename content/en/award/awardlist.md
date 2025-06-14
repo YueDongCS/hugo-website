@@ -2,7 +2,9 @@
 draft = false
 +++
 ### Fundings:
-- NSF CISE MSI, Co-PI, Jan. 2025- Dec. 2027
+- UCR Hellman Fellowship Award, July 2025 - June 2026
+- UCR WCGEC Energy Research Seed Grants, June 2025 - June 2026
+- NSF CISE MSI, Co-PI, Jan. 2025 - Dec. 2027
 - UTCRS, Co-PI, June 2024 - June 2025
 - Regents Faculty Fellowship grant, PI, July 2023 - June 2025
 - UCR OASIS Internal Funding Awards, PI, June 2023 - June 2024
