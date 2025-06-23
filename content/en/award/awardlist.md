@@ -3,6 +3,7 @@ draft = false
 +++
 
 ### Fundings \& Awards:
+- CAHSI-Google IRP Funding, PI, Sep. 2025 - Aug. 2026
 - NSF CISE MSI, Co-PI, Jan. 2025 - Dec. 2027
 - UCR Hellman Fellowship Award, July 2025 - June 2026
 - UCR WCGEC Energy Research Seed Grants, June 2025 - June 2026
