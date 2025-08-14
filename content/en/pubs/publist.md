@@ -5,14 +5,16 @@ draft = false
 # Publications
 ## 2025
 
-[40] PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling]()<br>Zefan_Cai, Yichi Zhang, Bofei Gao, Yuliang Liu, Yucheng Li, Tianyu Liu, Keming Lu, Wayne Xiong,  <u>Yue Dong</u>, Junjie Hu, Wen Xiao<br>*COLM 2025*    
-[39] [Layer-wise Alignment: Examining Safety Alignment Across Image Encoder Layers in Vision Language Models]()<br>Saketh Bachu, Erfan Shayegani, Rohit Lal, Trishna Chakraborty, Arindam Dutta, Chengyu Song, <u>Yue Dong</u>, Nael B. Abu-Ghazaleh, Amit Roy-Chowdhury<br>*ICML 2025*  
-[38] [VIKI: Systematic Cross-Platform Profile Inference of Tech Users]()<br>Ben Treves, Emiliano De Cristofaro,  <u>Yue Dong</u>, Michalis Faloutsosy<br>*WebSci 2025*  
-[37] [TRAWL: Tensor Reduced and Approximated Weights for Large Language Models]()<br>Yiran Luo, Het Patel, Yu Fu, Dawon Ahn, Jia Chen, <u>Yue Dong</u>, Evangelos E. Papalexakis<br>*PAKDD 2025 DSFA*
-[36] [LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner]()<br>Xiaopan Zhang*, Hao Qin*, Fuquan Wang, <u>Yue Dong</u>, Jiachen Li<br>*ICRA 2025, FM4RoboPlan @ RSS 2025*  
-[35] [Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning](https://arxiv.org/abs/2410.19258)<br>Yu Fu, Zefan Cai, Abedelkadir Asi, Wayne Xiong, <u>Yue Dong</u>, Wen Xiao<br>*ICLR 2025*  
-[34][AbFlowNet: Optimizing Antibody-Antigen Binding Energy via Diffusion-GFlowNet Fusion](https://arxiv.org/pdf/2505.12358)<br>Abrar Rahman Abir, Haz Sameen Shahgir, Md Rownok Zahan Ratul, Md Toki Tahmid, Greg Ver Steeg, <u>Yue Dong</u><br>ICML GenBio 2025
-[33] [Deploying AI for Signal Processing education:Selected challenges and intriguing opportunities]()<br>JJarvis Haupt, Qin Lu, Yanning Shen, Jia Chen, <u>Yue Dong</u>, Dan McCreary, Mehmet Akc¸akaya, Georgios B. Giannakis<br>*IEEE Signal Processing Magazine 2025*  
+[41] [PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling]()<br>Zefan_Cai, Yichi Zhang, Bofei Gao, Yuliang Liu, Yucheng Li, Tianyu Liu, Keming Lu, Wayne Xiong,  <u>Yue Dong</u>, Junjie Hu, Wen Xiao<br>*COLM 2025*    
+[40] [Layer-wise Alignment: Examining Safety Alignment Across Image Encoder Layers in Vision Language Models]()<br>Saketh Bachu, Erfan Shayegani, Rohit Lal, Trishna Chakraborty, Arindam Dutta, Chengyu Song, <u>Yue Dong</u>, Nael B. Abu-Ghazaleh, Amit Roy-Chowdhury<br>*ICML 2025*  
+[39] [VIKI: Systematic Cross-Platform Profile Inference of Tech Users]()<br>Ben Treves, Emiliano De Cristofaro,  <u>Yue Dong</u>, Michalis Faloutsosy<br>*WebSci 2025*  
+[38] [TRAWL: Tensor Reduced and Approximated Weights for Large Language Models]()<br>Yiran Luo, Het Patel, Yu Fu, Dawon Ahn, Jia Chen, <u>Yue Dong</u>, Evangelos E. Papalexakis<br>*PAKDD 2025 DSFA*
+[37] [LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner]()<br>Xiaopan Zhang*, Hao Qin*, Fuquan Wang, <u>Yue Dong</u>, Jiachen Li<br>*ICRA 2025, FM4RoboPlan @ RSS 2025*  
+[36] [Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning](https://arxiv.org/abs/2410.19258)<br>Yu Fu, Zefan Cai, Abedelkadir Asi, Wayne Xiong, <u>Yue Dong</u>, Wen Xiao<br>*ICLR 2025*  
+[35][AbFlowNet: Optimizing Antibody-Antigen Binding Energy via Diffusion-GFlowNet Fusion](https://arxiv.org/pdf/2505.12358)<br>Abrar Rahman Abir, Haz Sameen Shahgir, Md Rownok Zahan Ratul, Md Toki Tahmid, Greg Ver Steeg, <u>Yue Dong</u><br>ICML GenBio 2025
+[34] [Deploying AI for Signal Processing education:Selected challenges and intriguing opportunities]()<br>JJarvis Haupt, Qin Lu, Yanning Shen, Jia Chen, <u>Yue Dong</u>, Dan McCreary, Mehmet Akc¸akaya, Georgios B. Giannakis<br>*IEEE Signal Processing Magazine 2025*  
+[33] [What Do They Fix? LLM-Aided Categorization of Security Patches for Critical Memory Bugs]()<br>Xingyu Li, Juefei Pu, Yifan Wu, Xiaochen Zou, Shitong Zhu, Qiushi Wu, Zheng Zhang, Joshua Hsu, <u>Yue Dong</u>, Zhiyun Qian, Kangjie Lu, Trent Jaeger, Michael De Lucia, Srikanth V. Krishnamurthy<br>*NDSS 2026*
+
 
 ## 2024
 [32] [Mechanisms of non-factual hallucinations in language models](https://arxiv.org/abs/2403.18167)<br>Yu Lei, Meng Cao, JCK Cheung, <u>Yue Dong</u><br>*EMNLP 2024 Findings*  
