@@ -2,6 +2,7 @@
 draft = false
 +++
 ### Lead-organizer
+- EMNLP 2025 workshop on New Frontiers in Summarization
 - ACL 2024 Tutorial on [Vulnerabilities of Large Language Models to Adversarial Attacks](https://llm-vulnerability.github.io/)
 - EMNLP 2023 workshop on [New Frontiers in Summarization](https://newsumm.github.io/2023/)
 

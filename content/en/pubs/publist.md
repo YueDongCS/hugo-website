@@ -4,14 +4,18 @@ draft = false
 
 # Publications
 ## 2025
-
-[40] PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling]()<br>Zefan_Cai, Yichi Zhang, Bofei Gao, Yuliang Liu, Yucheng Li, Tianyu Liu, Keming Lu, Wayne Xiong,  <u>Yue Dong</u>, Junjie Hu, Wen Xiao<br>*COLM 2025*    
+[43] [Attention Eclipse: Manipulating Attention to Bypass LLM Safety-Alignment]()<br>
+Pedram Zaree, Md Abdullah Al Mamun, Quazi Mishkatul Alam, <u>Yue Dong</u>, Ihsen Alouani, Nael Abu-Ghazaleh<br>*EMNLP 2025*
+[42] [ExpertGenQA: Open-ended QA Generation in Specialized Domains]()<br>
+Haz Sameen Shahgir, Chansong Lim, Jia Chen, Evangelos E. Papalexakis, <u>Yue Dong</u><br>*Findings of EMNLP 2025* 
+[41] [HEAL: An Empirical Study on Hallucinations in Embodied Agents Driven by Large Language Models]()<br>Trishna Chakraborty, Udita Ghosh, Xiaopan Zhang, Fahim Faisal Niloy, <u>Yue Dong</u>, Jiachen Li, Amit K. Roy-Chowdhury, Chengyu Song<br>*Findings of EMNLP 2025*
+[40] [PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling]()<br>Zefan_Cai, Yichi Zhang, Bofei Gao, Yuliang Liu, Yucheng Li, Tianyu Liu, Keming Lu, Wayne Xiong,  <u>Yue Dong</u>, Junjie Hu, Wen Xiao<br>*COLM 2025*    
 [39] [Layer-wise Alignment: Examining Safety Alignment Across Image Encoder Layers in Vision Language Models]()<br>Saketh Bachu, Erfan Shayegani, Rohit Lal, Trishna Chakraborty, Arindam Dutta, Chengyu Song, <u>Yue Dong</u>, Nael B. Abu-Ghazaleh, Amit Roy-Chowdhury<br>*ICML 2025*  
 [38] [VIKI: Systematic Cross-Platform Profile Inference of Tech Users]()<br>Ben Treves, Emiliano De Cristofaro,  <u>Yue Dong</u>, Michalis Faloutsosy<br>*WebSci 2025*  
 [37] [TRAWL: Tensor Reduced and Approximated Weights for Large Language Models]()<br>Yiran Luo, Het Patel, Yu Fu, Dawon Ahn, Jia Chen, <u>Yue Dong</u>, Evangelos E. Papalexakis<br>*PAKDD 2025 DSFA*
 [36] [LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner]()<br>Xiaopan Zhang*, Hao Qin*, Fuquan Wang, <u>Yue Dong</u>, Jiachen Li<br>*ICRA 2025, FM4RoboPlan @ RSS 2025*  
 [35] [Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning](https://arxiv.org/abs/2410.19258)<br>Yu Fu, Zefan Cai, Abedelkadir Asi, Wayne Xiong, <u>Yue Dong</u>, Wen Xiao<br>*ICLR 2025*  
-[34][AbFlowNet: Optimizing Antibody-Antigen Binding Energy via Diffusion-GFlowNet Fusion](https://arxiv.org/pdf/2505.12358)<br>Abrar Rahman Abir, Haz Sameen Shahgir, Md Rownok Zahan Ratul, Md Toki Tahmid, Greg Ver Steeg, <u>Yue Dong</u><br>ICML GenBio 2025
+[34][AbFlowNet: Optimizing Antibody-Antigen Binding Energy via Diffusion-GFlowNet Fusion](https://arxiv.org/pdf/2505.12358)<br>Abrar Rahman Abir, Haz Sameen Shahgir, Md Rownok Zahan Ratul, Md Toki Tahmid, Greg Ver Steeg, <u>Yue Dong</u><br>*ICML GenBio 2025*
 [33] [Deploying AI for Signal Processing education:Selected challenges and intriguing opportunities]()<br>JJarvis Haupt, Qin Lu, Yanning Shen, Jia Chen, <u>Yue Dong</u>, Dan McCreary, Mehmet Akc¸akaya, Georgios B. Giannakis<br>*IEEE Signal Processing Magazine 2025*  
 
 ## 2024
