@@ -3,6 +3,12 @@ draft = false
 +++
 
 ## Invited talks
+- [Winter/2026] Guest speaker , UGRD R’Excellence: How Bold Hearts and Brilliant Minds Are Made.
+
+- [08/2025] Invited speaker , Monterey Data Conference.
+
+- [06/2025] UC Tech 2025: Closing Keynote Speaker.
+
 - [11/2023] **Exploring Safety in Large Language Models [*YouTube* 40:30 mins](https://www.youtube.com/watch?v=5OUuRbnEUsc) | [News](https://alumni.xjtu.edu.cn/info/1137/7465.htm)**
   - *80th Annual Convention of Jiaotong University Alumni Association in SoCal (交通大学南加州校友会80周年庆)*, Los Angeles, CA, US
 
