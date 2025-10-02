@@ -1,6 +1,8 @@
 +++
 draft = false
 +++
+-[10/2025]  Our paper "BiRNA-BERT allows efficient RNA language modeling with adaptive tokenization" was accepted to Nature Communications Biology. 
+-[09/2025] Three papers on [attention manipulation for LLM safety](https://arxiv.org/abs/2502.15334), [expert question generation](https://arxiv.org/pdf/2503.02948), and [hallucination for embodied agent](https://arxiv.org/abs/2506.15065) were accepted at EMNLP 2025. 
 - [05/2025] Our paper "Layer-wise Alignment: Examining Safety Alignment Across Image Encoder Layers in Vision Language Models" was accepted to ICML as a spotlight poster. 
 - [2/2025] Our paper "TRAWL: Tensor Reduced and Approximated Weights for Large Language Models" was accepted to PAKDD 2025 DSFA.
 - [1/2025] Our paper "VIKI: Systematic Cross-Platform Profile Inference of Tech Users" was accepted to WebSci 2025.
