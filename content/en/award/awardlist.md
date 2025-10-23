@@ -3,6 +3,7 @@ draft = false
 +++
 
 ### Fundings \& Awards:
+- NSF DUE (HSI), Co-PI, Sep. 2025 - Sep. 2030
 - CAHSI-Google IRP Funding, PI, Sep. 2025 - Aug. 2026
 - NSF CISE MSI, Co-PI, Jan. 2025 - Dec. 2027
 - UCR Hellman Fellowship Award, July 2025 - June 2026
