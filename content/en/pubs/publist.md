@@ -4,11 +4,21 @@ draft = false
 
 # Publications
 ## 2025
-[44] [Harnessing the Unseen: The Hidden Influence of Intrinsic Knowledge in Long-Context Language Models]<br>Yu Fu, Haz Sameen Shahgir, Hui Liu, Xianfeng Tang, Qi He, <u>Yue Dong</u><br>*AAAI 2026*
-[43] [Attention Eclipse: Manipulating Attention to Bypass LLM Safety-Alignment]()<br>Pedram Zaree, Md Abdullah Al Mamun, Quazi Mishkatul Alam, <u>Yue Dong</u>, Ihsen Alouani, Nael Abu-Ghazaleh<br>*EMNLP 2025*
-[42] [ExpertGenQA: Open-ended QA Generation in Specialized Domains]()<br>Haz Sameen Shahgir, Chansong Lim, Jia Chen, Evangelos E. Papalexakis, <u>Yue Dong</u><br>*Findings of EMNLP 2025* 
-[41] [HEAL: An Empirical Study on Hallucinations in Embodied Agents Driven by Large Language Models]()<br>Trishna Chakraborty, Udita Ghosh, Xiaopan Zhang, Fahim Faisal Niloy, <u>Yue Dong</u>, Jiachen Li, Amit K. Roy-Chowdhury, Chengyu Song<br>*Findings of EMNLP 2025*
-[40] [PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling]()<br>Zefan_Cai, Yichi Zhang, Bofei Gao, Yuliang Liu, Yucheng Li, Tianyu Liu, Keming Lu, Wayne Xiong,  <u>Yue Dong</u>, Junjie Hu, Wen Xiao<br>*COLM 2025*    
+[44] [Harnessing the Unseen: The Hidden Influence of Intrinsic Knowledge in Long-Context Language Models]()<br>
+Yu Fu, Haz Sameen Shahgir, Hui Liu, Xianfeng Tang, Qi He, <u>Yue Dong</u><br>
+*AAAI 2026*  
+[43] [Attention Eclipse: Manipulating Attention to Bypass LLM Safety-Alignment]()<br>
+Pedram Zaree, Md Abdullah Al Mamun, Quazi Mishkatul Alam, <u>Yue Dong</u>, Ihsen Alouani, Nael Abu-Ghazaleh<br>
+*EMNLP 2025*  
+[42] [ExpertGenQA: Open-ended QA Generation in Specialized Domains]()<br>
+Haz Sameen Shahgir, Chansong Lim, Jia Chen, Evangelos E. Papalexakis, <u>Yue Dong</u><br>
+*Findings of EMNLP 2025*  
+[41] [HEAL: An Empirical Study on Hallucinations in Embodied Agents Driven by Large Language Models]()<br>
+Trishna Chakraborty, Udita Ghosh, Xiaopan Zhang, Fahim Faisal Niloy, <u>Yue Dong</u>, Jiachen Li, Amit K. Roy-Chowdhury, Chengyu Song<br>
+*Findings of EMNLP 2025*  
+[40] [PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling]()<br>
+Zefan Cai, Yichi Zhang, Bofei Gao, Yuliang Liu, Yucheng Li, Tianyu Liu, Keming Lu, Wayne Xiong, <u>Yue Dong</u>, Junjie Hu, Wen Xiao<br>
+*COLM 2025*    
 [39] [Layer-wise Alignment: Examining Safety Alignment Across Image Encoder Layers in Vision Language Models]()<br>Saketh Bachu, Erfan Shayegani, Rohit Lal, Trishna Chakraborty, Arindam Dutta, Chengyu Song, <u>Yue Dong</u>, Nael B. Abu-Ghazaleh, Amit Roy-Chowdhury<br>*ICML 2025* 
 [38] [VIKI: Systematic Cross-Platform Profile Inference of Tech Users]()<br>Ben Treves, Emiliano De Cristofaro,  <u>Yue Dong</u>, Michalis Faloutsosy<br>*WebSci 2025*  
 [37] [TRAWL: Tensor Reduced and Approximated Weights for Large Language Models]()<br>Yiran Luo, Het Patel, Yu Fu, Dawon Ahn, Jia Chen, <u>Yue Dong</u>, Evangelos E. Papalexakis<br>*PAKDD 2025 DSFA*
