@@ -1,6 +1,7 @@
 +++
 draft = false
 +++
+- [12/2025] Our paper “A Real-Time System to Populate FRA Form 57 from News” was accepted to WSDM 2026. 
 - [11/2025] Our paper “Harnessing the Unseen: The Hidden Influence of Intrinsic Knowledge in Long-Context Language Models”, led by my Ph.D. students Yu Fu and Haz Sameen Shahgir, was accepted to AAAI 2026. 
 - [10/2025]  Our paper "BiRNA-BERT allows efficient RNA language modeling with adaptive tokenization" was accepted to Nature Communications Biology. 
 - [09/2025] Three papers on [attention manipulation for LLM safety](https://arxiv.org/abs/2502.15334), [expert question generation](https://arxiv.org/pdf/2503.02948), and [hallucination for embodied agent](https://arxiv.org/abs/2506.15065) were accepted at EMNLP 2025. 
