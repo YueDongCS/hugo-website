@@ -1,6 +1,7 @@
 +++
 draft = false
 +++
+- [04/2026] Two papers on [LLM hallucination in summarization]() and [bias mitigation](https://arxiv.org/abs/2411.10636) were accepted at ACL 2026.
 - [02/2026] Our proposal of The First Workshop on Pluralistic Value Alignment of LLMs has been accepted for co-location at AACL 2026.
 - [02/2026] Two papers on LLM safety and agent safety, led by my PhD student [Erfan Shayegani](https://erfanshayegani.github.io/), have been accepted to ICRL 2026!
 - [01/2026] Our paper "Learning to Compress: Energy-Aware Large Language Model Serving via Adaptive KV Caching" has been accepted to the 2026 IEEE Power & Energy Society General Meeting.
