@@ -1,6 +1,11 @@
 +++
 draft = false
 +++
+- [04/2026] Two papers on [LLM hallucination in summarization]() and [bias mitigation](https://arxiv.org/abs/2411.10636) were accepted at ACL 2026.
+- [02/2026] Our proposal of The First Workshop on Pluralistic Value Alignment of LLMs has been accepted for co-location at AACL 2026.
+- [02/2026] Two papers on LLM safety and agent safety, led by my PhD student [Erfan Shayegani](https://erfanshayegani.github.io/), have been accepted to ICRL 2026!
+- [01/2026] Our paper "Learning to Compress: Energy-Aware Large Language Model Serving via Adaptive KV Caching" has been accepted to the 2026 IEEE Power & Energy Society General Meeting.
+- [12/2025] Our paper “A Real-Time System to Populate FRA Form 57 from News” was accepted to WSDM 2026. 
 - [11/2025] Our paper “Harnessing the Unseen: The Hidden Influence of Intrinsic Knowledge in Long-Context Language Models”, led by my Ph.D. students Yu Fu and Haz Sameen Shahgir, was accepted to AAAI 2026. 
 - [10/2025]  Our paper "BiRNA-BERT allows efficient RNA language modeling with adaptive tokenization" was accepted to Nature Communications Biology. 
 - [09/2025] Three papers on [attention manipulation for LLM safety](https://arxiv.org/abs/2502.15334), [expert question generation](https://arxiv.org/pdf/2503.02948), and [hallucination for embodied agent](https://arxiv.org/abs/2506.15065) were accepted at EMNLP 2025. 
