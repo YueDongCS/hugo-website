@@ -26,7 +26,8 @@ draft = false
 - IJCNLP-AACL 2023 Generation and Summarization Track
 
 ### Area Chair
-- ICLR 2025
+- ICML 2026
+- ICLR 2025, 26
 - COLING 2024
 - NLPCC 2023 Generation and Summarization Track
 - EMNLP 2023, 2022 Summarization Track
