@@ -64,7 +64,7 @@ email: ""
 ---
 Hi, I am Yue (/yoo-eh/) Dong, an assistant professor of computer science and engineering at [the University of California, Riverside](https://www1.cs.ucr.edu/). I obtained my PhD in Computer Science at [McGill University](http://cs.mcgill.ca) and [Mila](https://mila.quebec), supervised by Dr. [Jackie Cheung](https://www.cs.mcgill.ca/~jcheung/). I was fortunate to intern at [Google AI](https://ai.google/), [AI2](https://allenai.org/), [Microsoft](https://www.microsoft.com/en-us/research/), and [Noah’s Ark Lab](http://dev3.noahlab.com.hk/) during my PhD.
 
-My research interests include natural language processing, large language models, machine learning, and artificial intelligence. I lead the Natural Language Processing Group at UCR, where we focus on controllable text generation, trustworthy LLMs (e.g., adversarial robustness), and efficient LLMs (e.g., KV cache optimization).
+My research interests include natural language processing, large language models, machine learning, and artificial intelligence. I am the principal investigator (PI) of the Natural Language Processing Group at UCR, where we focus on controllable text generation, trustworthy LLMs (e.g., adversarial robustness), and efficient LLMs (e.g., KV cache optimization).
 
 **Prospective Students** (Updated April 2025):  
 Thank you for your interest! **I am planning to hire 1-2 co-advised PhD student for Fall 2026.**  
