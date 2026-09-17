@@ -1,9 +1,18 @@
 +++
 draft = false
 +++
+- [08/2026] I am honored to serve as a senior area chair for [NAACL 2027](https://2027.naacl.org/).
+- [07/2026] Our paper on [Enhancing Adversarial Robustness of Mobility-Scooter Riding Stability Analysis Model through Body-Informed Design]() is accepted at [IEEE BSN 2026](https://bsn.embs.org/2026/).
+- [07/2026] Our paper on [DSL-LLaDA: Scaling Continuous Denoising to 8B Masked Diffusion LMs]() is accepted at [EMNLP 2026 Findings](https://2026.aclweb.org/).
+- [06/2026] I am honored to serve as a senior area chair for [EMNLP 2026](https://2026.aclweb.org/).
+- [05/2026] Excited to share that the poster on EV classification for cancer detection that I worked on with [Tijana Jovanovic-Talisman](https://www.cityofhope.org/research/find-a-scientist/tijana-jovanovic-talisman) won the Best Poster Award at the U54 Symposium!
+- [05/2026] Our paper "D-Judge: Disrupting Multi-Turn Jailbreaks using Semantics-Preserving Output Rewriting" was accepted to ICML 2026. 
+- [04/2026] I am honored to serve as an area chair for [ICLR 2026](https://iclr.cc/Conferences/2026).
+- [04/2026] I am honored to serve as a senior area chair for [ACL 2026](https://2026.aclweb.org/).
 - [04/2026] Two papers on [LLM hallucination in summarization]() and [bias mitigation](https://arxiv.org/abs/2411.10636) were accepted at ACL 2026.
 - [02/2026] Our proposal of The First Workshop on Pluralistic Value Alignment of LLMs has been accepted for co-location at AACL 2026.
 - [02/2026] Two papers on LLM safety and agent safety, led by my PhD student [Erfan Shayegani](https://erfanshayegani.github.io/), have been accepted to ICRL 2026!
+- [01/2026] I am honored to serve as an area chair for [NeuRIPS 2026](https://neurips.cc/).
 - [01/2026] Our paper "Learning to Compress: Energy-Aware Large Language Model Serving via Adaptive KV Caching" has been accepted to the 2026 IEEE Power & Energy Society General Meeting.
 - [12/2025] Our paper “A Real-Time System to Populate FRA Form 57 from News” was accepted to WSDM 2026. 
 - [11/2025] Our paper “Harnessing the Unseen: The Hidden Influence of Intrinsic Knowledge in Long-Context Language Models”, led by my Ph.D. students Yu Fu and Haz Sameen Shahgir, was accepted to AAAI 2026. 
