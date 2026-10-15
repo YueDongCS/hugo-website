@@ -1,7 +1,7 @@
 +++
 draft = false
 +++
-
+- [10/2026] I am honored to serve as a panelist for both the Foundations of AI and AI Security sessions at the [UC Riverside AI Summit](https://events.ucr.edu/event/uc-riverside-ai-summit).
 - [10/2026] Our paper on [Transformer-guided Relational Reasoning for Update Prioritization in Federated Learning]() has been accepted at [WACV 2027](https://wacv.thecvf.com/).
 - [10/2026] I am honored to give an invited talk at the [Simons Institute for the Theory of Computing at UC Berkeley](https://simons.berkeley.edu/workshops/trustworthy-ai-hallucinations-reliable-autonomy) for the workshop on Trustworthy AI: From Hallucinations to Reliable Autonomy.
 - [09/2026] Excited to share that three of our papers have been accepted at [NeurIPS 2026](https://neurips.cc/): [MT-JailBench: A Modular Benchmark for Understanding Multi-Turn Jailbreak Attacks](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=WYkn4loAAAAJ&sortby=pubdate&citation_for_view=WYkn4loAAAAJ:4OULZ7Gr8RgC), [Do Reasoning LLMs Refuse What They Infer in Long Contexts?](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=WYkn4loAAAAJ&sortby=pubdate&citation_for_view=WYkn4loAAAAJ:cFHS6HbyZ2cC), and [AbFlowNet: Optimizing Antibody-Antigen Binding Energy via Diffusion-GFlowNet Fusion](https://arxiv.org/abs/2505.12358).
