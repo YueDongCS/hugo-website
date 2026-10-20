@@ -3,29 +3,78 @@ draft = false
 +++
 
 # Publications
-## 2025
-[44] [Harnessing the Unseen: The Hidden Influence of Intrinsic Knowledge in Long-Context Language Models]()<br>
+## 2026
+[55] [Do Reasoning LLMs Refuse What They Infer in Long Contexts?]()<br>
+Yu Fu, Haz Sameen Shahgir, Zhipeng Wei, Huanli Gong, N. Benjamin Erichson, <u>Yue Dong</u><br>
+*NeurIPS 2026*  
+[54] [AbFlowNet: Optimizing Antibody-Antigen Binding Energy via Diffusion-GFlowNet Fusion](https://arxiv.org/pdf/2505.12358)<br>
+Abrar Rahman Abir, Haz Sameen Shahgir, Md. Rownok Zahan Ratul, Md Toki Tahmid, Greg Ver Steeg, <u>Yue Dong</u><br>
+*NeurIPS 2026*  
+[53] [MT-JailBench: A Modular Benchmark for Understanding Multi-Turn Jailbreak Attacks]()<br>
+Xinkai Zhang, Zhipeng Wei, Huanli Gong, Jing Ting Zheng, Yuchen Zhang, <u>Yue Dong</u>, N. Benjamin Erichson<br>
+*NeurIPS 2026*  
+[52] [D-Judge: Disrupting Multi-Turn Jailbreaks using Semantics-Preserving Output Rewriting]()<br>
+Huanli Gong, Zhipeng Wei, Yu Fu, Haz Sameen Shahgir, Ananya Gupta, <u>Yue Dong</u>, N. Benjamin Erichson<br>
+*ICML 2026*  
+[51] [VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors]()<br>
+Haz Sameen Shahgir, Xiaofu Chen, Yu Fu, Erfan Shayegani, Nael Abu-Ghazaleh, Yova Kementchedjhieva, <u>Yue Dong</u><br>
+*COLM 2026*  
+[50] [Anchoring the Cache: Mitigating Contextual Hallucination in KV-Compressed Long-Context Summarization]()<br>
+Yu Fu, Chen Luo, Josef Valvoda, Xin Zhang, Xuejing Lei, Xiao Pan, Hui Liu, <u>Yue Dong</u><br>
+*ACL 2026*  
+[49] [Enhancing Adversarial Robustness of Mobility-Scooter Riding Stability Analysis Model through Body-Informed Design]()<br>
+Jasper Liu, M. Patel, C. Zhao, Haz Sameen Shahgir, <u>Yue Dong</u>, Tingting Chen<br>
+*IEEE BSN 2026*  
+[48] [DSL-LLaDA: Scaling Continuous Denoising to 8B Masked Diffusion LMs]()<br>
+Longxuan Yu, Yunshu Wu, Yu Fu, Siheng Xiong, Rob Brekelmans, Hui Liu, <u>Yue Dong</u>, Greg Ver Steeg<br>
+*EMNLP 2026*  
+[47] [A Real-Time System to Populate FRA Form 57 from News]()<br>
+Chansong Lim, Haz Sameen Shahgir, <u>Yue Dong</u>, Jia Chen, Evangelos E. Papalexakis<br>
+*WSDM 2026*  
+[46] [Learning to Compress: Energy-Aware Large Language Model Serving via Adaptive KV Caching]()<br>
+Yuanbin Cheng, Yu Fu, <u>Yue Dong</u>, Nanpeng Yu<br>
+*IEEE Power & Energy Society General Meeting 2026*  
+[45] [Just Do It!? Computer-Use Agents Exhibit Blind Goal-Directedness]()<br>
+Erfan Shayegani, Keegan Hines, <u>Yue Dong</u>, Nael Abu-Ghazaleh, Roman Lutz, Spencer Whitehead, Vidhisha Balachandran, Besmira Nushi, Vibhav Vineet<br>
+*ICLR 2026*  
+[44] [Misaligned Roles, Misplaced Images: Structural Input Perturbations Expose Multimodal Alignment Blind Spots]()<br>
+Erfan Shayegani, G. M. Shahariar, Sara Abdali, Lei Yu, Nael Abu-Ghazaleh, <u>Yue Dong</u><br>
+*ICLR 2026*  
+[43] [Harnessing the Unseen: The Hidden Influence of Intrinsic Knowledge in Long-Context Language Models]()<br>
 Yu Fu, Haz Sameen Shahgir, Hui Liu, Xianfeng Tang, Qi He, <u>Yue Dong</u><br>
 *AAAI 2026*  
-[43] [Attention Eclipse: Manipulating Attention to Bypass LLM Safety-Alignment]()<br>
+
+## 2025
+[42] [BiRNA-BERT allows efficient RNA language modeling with adaptive tokenization]()<br>
+Md Toki Tahmid, Haz Sameen Shahgir, Sazan Mahbub, <u>Yue Dong</u>, Md Shamsuzzoha Bayzid<br>
+*Communications Biology, 2025*  
+[41] [Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning](https://arxiv.org/abs/2410.19258)<br>
+Yu Fu, Zefan Cai, Abedelkadir Asi, Wayne Xiong, <u>Yue Dong</u>, Wen Xiao<br>
+*ICLR 2025*  
+[40] [Attention Eclipse: Manipulating Attention to Bypass LLM Safety-Alignment]()<br>
 Pedram Zaree, Md Abdullah Al Mamun, Quazi Mishkatul Alam, <u>Yue Dong</u>, Ihsen Alouani, Nael Abu-Ghazaleh<br>
 *EMNLP 2025*  
-[42] [ExpertGenQA: Open-ended QA Generation in Specialized Domains]()<br>
+[39] [ExpertGenQA: Open-ended QA Generation in Specialized Domains]()<br>
 Haz Sameen Shahgir, Chansong Lim, Jia Chen, Evangelos E. Papalexakis, <u>Yue Dong</u><br>
 *Findings of EMNLP 2025*  
-[41] [HEAL: An Empirical Study on Hallucinations in Embodied Agents Driven by Large Language Models]()<br>
+[38] [HEAL: An Empirical Study on Hallucinations in Embodied Agents Driven by Large Language Models]()<br>
 Trishna Chakraborty, Udita Ghosh, Xiaopan Zhang, Fahim Faisal Niloy, <u>Yue Dong</u>, Jiachen Li, Amit K. Roy-Chowdhury, Chengyu Song<br>
 *Findings of EMNLP 2025*  
-[40] [PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling]()<br>
+[37] [PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling]()<br>
 Zefan Cai, Yichi Zhang, Bofei Gao, Yuliang Liu, Yucheng Li, Tianyu Liu, Keming Lu, Wayne Xiong, <u>Yue Dong</u>, Junjie Hu, Wen Xiao<br>
-*COLM 2025*    
-[39] [Layer-wise Alignment: Examining Safety Alignment Across Image Encoder Layers in Vision Language Models]()<br>Saketh Bachu, Erfan Shayegani, Rohit Lal, Trishna Chakraborty, Arindam Dutta, Chengyu Song, <u>Yue Dong</u>, Nael B. Abu-Ghazaleh, Amit Roy-Chowdhury<br>*ICML 2025* 
-[38] [VIKI: Systematic Cross-Platform Profile Inference of Tech Users]()<br>Ben Treves, Emiliano De Cristofaro,  <u>Yue Dong</u>, Michalis Faloutsosy<br>*WebSci 2025*  
-[37] [TRAWL: Tensor Reduced and Approximated Weights for Large Language Models]()<br>Yiran Luo, Het Patel, Yu Fu, Dawon Ahn, Jia Chen, <u>Yue Dong</u>, Evangelos E. Papalexakis<br>*PAKDD 2025 DSFA*
-[36] [LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner]()<br>Xiaopan Zhang*, Hao Qin*, Fuquan Wang, <u>Yue Dong</u>, Jiachen Li<br>*ICRA 2025, FM4RoboPlan @ RSS 2025*  
-[35] [Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning](https://arxiv.org/abs/2410.19258)<br>Yu Fu, Zefan Cai, Abedelkadir Asi, Wayne Xiong, <u>Yue Dong</u>, Wen Xiao<br>*ICLR 2025*  
-[34][AbFlowNet: Optimizing Antibody-Antigen Binding Energy via Diffusion-GFlowNet Fusion](https://arxiv.org/pdf/2505.12358)<br>Abrar Rahman Abir, Haz Sameen Shahgir, Md Rownok Zahan Ratul, Md Toki Tahmid, Greg Ver Steeg, <u>Yue Dong</u><br>*ICML GenBio 2025*
-[33] [Deploying AI for Signal Processing education:Selected challenges and intriguing opportunities]()<br>JJarvis Haupt, Qin Lu, Yanning Shen, Jia Chen, <u>Yue Dong</u>, Dan McCreary, Mehmet Akc¸akaya, Georgios B. Giannakis<br>*IEEE Signal Processing Magazine 2025*  
+*COLM 2025*  
+[36] [VIKI: Systematic Cross-Platform Profile Inference of Tech Users]()<br>
+Ben Treves, Emiliano De Cristofaro, <u>Yue Dong</u>, Michalis Faloutsos<br>
+*WebSci 2025*  
+[35] [TRAWL: Tensor Reduced and Approximated Weights for Large Language Models]()<br>
+Yiran Luo, Het Patel, Yu Fu, Dawon Ahn, Jia Chen, <u>Yue Dong</u>, Evangelos E. Papalexakis<br>
+*PAKDD 2025 DSFA*  
+[34] [Layer-wise Alignment: Examining Safety Alignment Across Image Encoder Layers in Vision Language Models]()<br>
+Saketh Bachu, Erfan Shayegani, Rohit Lal, Trishna Chakraborty, Arindam Dutta, Chengyu Song, <u>Yue Dong</u>, Nael B. Abu-Ghazaleh, Amit Roy-Chowdhury<br>
+*ICML 2025*  
+[33] [LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner]()<br>
+Xiaopan Zhang*, Hao Qin*, Fuquan Wang, <u>Yue Dong</u>, Jiachen Li<br>
+*ICRA 2025*
 
 
 ## 2024
