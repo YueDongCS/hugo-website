@@ -1,6 +1,7 @@
 +++
 draft = false
 +++
+- [10/2026] I am honored to give a keynote talk at [SoCalNLP 2026]().
 - [10/2026] I am honored to serve as a senior area chair for [ACL 2027](https://2027.acl.org/).
 - [10/2026] I am honored to serve as a panelist for both the Foundations of AI and AI Security sessions at the [UC Riverside AI Summit](https://events.ucr.edu/event/uc-riverside-ai-summit).
 - [10/2026] Our paper on [Transformer-guided Relational Reasoning for Update Prioritization in Federated Learning]() has been accepted at [WACV 2027](https://wacv.thecvf.com/).
