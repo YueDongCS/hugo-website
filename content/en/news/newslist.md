@@ -1,8 +1,10 @@
 +++
 draft = false
 +++
-- [10/2026] I am honored to give a keynote talk at [SoCalNLP 2026]().
-- [10/2026] I am honored to serve as a senior area chair for [ACL 2027](https://2027.acl.org/).
+- [10/2026] I am honored to serve as a Hands-on Tutorial Chair for [ACM KDD 2027](https://kdd2027.kdd.org/).
+- [10/2026] I am honored to serve as a Senior Area Chair for [ACL 2027](https://2027.acl.org/).
+- [10/2026] I am honored to give a keynote talk at the [SoCal NLP Symposium 2026](https://socalnlp.github.io/).
+- [10/2026] I am honored to give a keynote talk at the [UCR Cybersecurity Careers and Skill-building Seminar](https://events.ucr.edu/event/red-flags-real-careers-cybersecurity-careers-and-skill-building-seminar).
 - [10/2026] I am honored to serve as a panelist for both the Foundations of AI and AI Security sessions at the [UC Riverside AI Summit](https://events.ucr.edu/event/uc-riverside-ai-summit).
 - [10/2026] Our paper on [Transformer-guided Relational Reasoning for Update Prioritization in Federated Learning]() has been accepted at [WACV 2027](https://wacv.thecvf.com/).
 - [10/2026] I am honored to give an invited talk at the [Simons Institute for the Theory of Computing at UC Berkeley](https://simons.berkeley.edu/workshops/trustworthy-ai-hallucinations-reliable-autonomy) for the workshop on Trustworthy AI: From Hallucinations to Reliable Autonomy.
