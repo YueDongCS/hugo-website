@@ -1,6 +1,8 @@
 +++
 draft = false
 +++
+- 
+- [11/2026] Our paper on Label-Free Framework for Evaluating RAG Chatbots has been accepted to the [IEEE BigData 2026 MLBD Special Session](https://bigdataieee.org/BigData2026/calls/special-machine-learning/).
 - [10/2026] I am honored to serve as a Hands-on Tutorial Chair for [ACM KDD 2027](https://kdd2027.kdd.org/).
 - [10/2026] I am honored to serve as a Senior Area Chair for [ACL 2027](https://2027.acl.org/).
 - [10/2026] I am honored to give a keynote talk at the [SoCal NLP Symposium 2026](https://socalnlp.github.io/).

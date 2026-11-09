@@ -4,6 +4,9 @@ draft = false
 
 # Publications
 ## 2026
+[56] A Label-Free Framework for Evaluating RAG Chatbots with a 16-Month Production Case Study<br>
+Lusine Hayrapetyan, Shaun Colegado, Gary Wang, Haz Sameen Shahgir, <u>Yue Dong</u>, Yunfei Hou<br>
+*IEEE BigData 2026, MLBD Special Session*
 [55] [Do Reasoning LLMs Refuse What They Infer in Long Contexts?]()<br>
 Yu Fu, Haz Sameen Shahgir, Zhipeng Wei, Huanli Gong, N. Benjamin Erichson, <u>Yue Dong</u><br>
 *NeurIPS 2026*  
